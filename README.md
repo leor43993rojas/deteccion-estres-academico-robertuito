@@ -9,15 +9,21 @@ Proyecto de clasificación binaria de estrés académico en comentarios de estud
 ├── data_estudiantes.csv         # Dataset final (720 filas, balanceado, auditado)
 ├── 1_Expo_IA_PNL.ipynb          # Notebook completo: carga, split, fine-tuning, evaluación
 ├── Prueba_robertitu.ipynb       # Notebook ligero: solo predicción con el modelo ya entrenado
-├── matriz_confusion_final.png   # Resultado visual de la evaluación final
-└── modelo_estres_final/         # Modelo ya entrenado (pesos + tokenizer)
-    ├── model.safetensors
-    ├── config.json
-    ├── tokenizer_config.json
-    ├── vocab.txt
-    ├── special_tokens_map.json
-    └── training_args.bin
+└── matriz_confusion_final.png   # Resultado visual de la evaluación final
 ```
+
+**Nota:** el modelo entrenado (`modelo_estres_final/`, ~385 MB) no está incluido en este repositorio de GitHub por exceder el límite de tamaño de archivo (100 MB). Está disponible en Google Drive mediante el siguiente enlace:
+
+📁 **Modelo entrenado (descarga o acceso directo):**
+`[PEGAR AQUÍ EL LINK DE COMPARTIR DE GOOGLE DRIVE]`
+
+Este enlace da acceso de solo lectura a la carpeta `modelo_estres_final`, que contiene:
+- `model.safetensors` (pesos del modelo ajustado)
+- `config.json`
+- `tokenizer_config.json`
+- `vocab.txt` / `tokenizer.json`
+- `special_tokens_map.json`
+- `training_args.bin`
 
 ## Requisitos previos
 
@@ -33,10 +39,10 @@ Descarga el ZIP completo desde GitHub (botón verde "Code" → "Download ZIP") y
 ### 2. Subir los archivos a Google Drive
 1. Entra a [Google Drive](https://drive.google.com) con tu cuenta.
 2. En **Mi unidad** (raíz principal, no dentro de otra carpeta), crea una carpeta llamada exactamente: `Proyecto_NLP`
-3. Dentro de `Proyecto_NLP`, sube estos archivos (todos al mismo nivel, sin subcarpetas adicionales):
+3. Dentro de `Proyecto_NLP`, sube estos archivos descargados del repositorio de GitHub:
    - `data_estudiantes.csv`
    - `matriz_confusion_final.png`
-   - la carpeta completa `modelo_estres_final` (con sus 6 archivos internos)
+4. Descarga la carpeta `modelo_estres_final` desde el enlace de Google Drive indicado arriba (sección "Nota"), y súbela también dentro de `Proyecto_NLP`, manteniendo el nombre de carpeta y los 6 archivos internos intactos
 
 La estructura final en tu Drive debe verse exactamente así:
 ```
