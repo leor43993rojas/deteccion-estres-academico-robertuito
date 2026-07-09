@@ -1,0 +1,721 @@
+id,texto,label
+1,"Me gusta bastante la metodología de Ingeniería de Software porque deja tiempo suficiente para terminar las tareas programadas, recomiendo matricularse con él de todas maneras.",0
+2,"El nivel del examen parcial estuvo regular, demandó estudiar un par de días enteros pero nada imposible.",0
+3,"Las clases de hoy sobre Introducción a la Computación porque no se complica con calificaciones extremas ni sorpresas, todo bajo control por el momento.",0
+4,"Me gusta bastante la metodología de Metodologías Ágiles porque hace que los temas difíciles parezcan súper sencillos, mis patas y yo aprobamos fijos.",0
+5,"Felizmente el profesor de Costos y Presupuestos porque maneja un nivel intermedio que permite aprender bien, salí muy bien en la última práctica calificada.",0
+6,"Me gusta bastante la metodología de Diseño de Sistemas porque dicta de manera muy didáctica y responde dudas, es un gran aporte para la carrera.",0
+7,"Me siento frustrado y solo en el grupo de Arquitectura de Computadoras debido a que acumula demasiada teoría pesada y monótona que no se entiende, voy a colapsar si sigo así ps.",1
+8,"Tengo una ansiedad terrible por el parcial de Cálculo Avanzado debido a que cambia los criterios de evaluación a última hora siempre, no duermo nada y lloro de frustración.",1
+9,El examen de rezagados de Álgebra Lineal contiene preguntas desarrolladas por un comité de profesores muy estricto.,1
+10,"Tengo tres prácticas acumuladas esta semana de Gestión de Proyectos debido a que explica de forma confusa y encima grita si le preguntas algo, qué roche jalarme por segunda vez esto.",1
+11,"Siento que me voy a jalar el curso de Programación Orientada a Objetos debido a que explica de forma confusa y encima grita si le preguntas algo, una palteada total este ciclo académico.",1
+12,"Todo tranquilo en el curso de Cálculo I porque explica con ejemplos reales de la industria peruana, así que voy con confianza al examen.",0
+13,"El ciclo va bastante relajado con Química General porque maneja un nivel intermedio que permite aprender bien, recomiendo matricularse con él de todas maneras.",0
+14,"Afrontamos problemas de compatibilidad de software en las computadoras asignadas para la práctica calificada, solucionándolos rápidamente gracias al soporte técnico inmediato del personal encargado del laboratorio del campus.",0
+15,"La sobrecarga de trabajos me está matando en Química General debido a que sus exámenes no tienen nada que ver con lo avanzado en clase, ya me dio dolor de cabeza de tanto estresarme.",1
+16,"Las conferencias internacionales programadas para esta semana ampliaron mi visión sobre la inteligencia artificial, aunque descuidé el avance de mi monografía obligatoria de sistemas operativos por asistir a las ponencias.",1
+17,La entrega del avance del portafolio académico se realiza únicamente a través de la sección de tareas virtuales.,0
+18,"Tengo que quedarme una horita extra en la biblioteca del campus para terminar de diseñar el algoritmo de ordenamiento, después de eso estaré libre para descansar durante el resto de la tarde.",0
+19,"Por fin entendí la teoría compleja de Estadística Aplicada porque dicta de manera muy didáctica y responde dudas, recomiendo matricularse con él de todas maneras.",0
+20,"Estoy recontra quemado por culpa de Costos y Presupuestos debido a que nadie en mi grupo ayuda y tengo que hacer todo solo, estoy al borde del colapso emocional.",1
+21,"Las clases de hoy sobre Gestión de Proyectos porque deja tiempo suficiente para terminar las tareas programadas, todo bajo control por el momento.",0
+22,"El ciclo va bastante relajado con Estadística Aplicada porque dicta de manera muy didáctica y responde dudas, es un gran aporte para la carrera.",0
+23,"Ya no doy más con las entregas de Costos y Presupuestos debido a que acumula demasiada teoría pesada y monótona que no se entiende, una palteada total este ciclo académico.",1
+24,"A veces se acumulan los laboratorios de Redes, pero el profesor suele dar prórrogas si se lo pedimos formalmente.",0
+25,"Es imposible avanzar con tanta presión en Redes y Conectividad debido a que califica de forma recontra estricta e injusta a todos, no duermo nada y lloro de frustración.",1
+26,"Tengo tres prácticas acumuladas esta semana de Metodologías Ágiles debido a que explica de forma confusa y encima grita si le preguntas algo, voy a colapsar si sigo así ps.",1
+27,El examen final presencial fue programado para el día sábado a las siete de la noche en el campus secundario.,1
+28,"Buenísima la clase de laboratorio en Cálculo Avanzado porque explica paso a paso todo el silabo sin correr, todo bajo control por el momento.",0
+29,"Felizmente el profesor de Inteligencia Artificial porque maneja un nivel intermedio que permite aprender bien, todo bajo control por el momento.",0
+30,"Es imposible avanzar con tanta presión en Sistemas Operativos debido a que nadie en mi grupo ayuda y tengo que hacer todo solo, no duermo nada y lloro de frustración.",1
+31,"Tengo tres prácticas acumuladas esta semana de Estructuras de Datos debido a que nadie en mi grupo ayuda y tengo que hacer todo solo, qué roche jalarme por segunda vez esto.",1
+32,"No hay mucha carga esta semana en Costos y Presupuestos porque hace que los temas difíciles parezcan súper sencillos, así da gusto estudiar de verdad.",0
+33,"El ingeniero explica excelente los temas de Estadística Aplicada porque maneja un nivel intermedio que permite aprender bien, es un gran aporte para la carrera.",0
+34,"Me gusta bastante la metodología de Sistemas Operativos porque dicta de manera muy didáctica y responde dudas, es un crack el profe nomás.",0
+35,"El ciclo va bastante relajado con Introducción a la Computación porque organiza los grupos de forma equitativa para avanzar tranquilos, así que voy con confianza al examen.",0
+36,"El ciclo va bastante relajado con Ingeniería de Software porque explica paso a paso todo el silabo sin correr, todo bajo control por el momento.",0
+37,"Revisamos el marco conceptual del diseño de software orientándolo a la nube computing. Aplicar eso al prototipo actual validó nuestra propuesta de arquitectura tecnológica; hace meses parecía inviable, hoy es una realidad tangible.",0
+38,Tenemos que coordinar una reunión de grupo un sábado por la tarde para cerrar el avance de Ingeniería de Software.,0
+39,"Siento que me voy a jalar el curso de Álgebra Lineal debido a que nadie en mi grupo ayuda y tengo que hacer todo solo, mis patas ya abandonaron el curso por completo.",1
+40,"Es imposible avanzar con tanta presión en Química General debido a que deja proyectos larguísimos de un día para otro sin avisar, ya me dio dolor de cabeza de tanto estresarme.",1
+41,"Con un buen grupo todo sale bien en Base de Datos porque organiza los grupos de forma equitativa para avanzar tranquilos, es un crack el profe nomás.",0
+42,Tengo que dejar de salir los fines de semana porque el avance del proyecto final me está demandando bastante.,1
+43,"Mi salud está empeorando por culpa de las amanecidas en Programación Orientada a Objetos debido a que acumula demasiada teoría pesada y monótona que no se entiende, voy a colapsar si sigo así ps.",1
+44,El ambiente en el grupo de trabajo está algo tenso porque un integrante no avanza sus diapositivas.,1
+45,El examen final del curso de Base de Datos consta de cuatro preguntas de desarrollo y una de diseño lógico.,0
+46,"Me gusta bastante la metodología de Gestión de Proyectos porque no se complica con calificaciones extremas ni sorpresas, recomiendo matricularse con él de todas maneras.",0
+47,"Tengo tres prácticas acumuladas esta semana de Química General debido a que deja proyectos larguísimos de un día para otro sin avisar, una palteada total este ciclo académico.",1
+48,Siento algo de presión por mantener el promedio ponderado alto y no perder los beneficios de la universidad.,1
+49,"Me gusta bastante la metodología de Redes y Conectividad porque explica paso a paso todo el silabo sin correr, así que voy con confianza al examen.",0
+50,"La carga de ejercicios semanales de física está un poquitín desproporcionada en comparación con las horas de clase disponibles, lo cual me obliga a restar tiempo dedicado al descanso familiar indispensable.",1
+51,"Estoy recontra quemado por culpa de Redes y Conectividad debido a que deja proyectos larguísimos de un día para otro sin avisar, una palteada total este ciclo académico.",1
+52,"Las clases de hoy sobre Arquitectura de Computadoras porque no se complica con calificaciones extremas ni sorpresas, recomiendo matricularse con él de todas maneras.",0
+53,"Las clases de hoy sobre Diseño de Sistemas porque deja tiempo suficiente para terminar las tareas programadas, así da gusto estudiar de verdad.",0
+54,"La profesora es un poquito estricta con la hora de ingreso al aula del laboratorio, pero tomando las precauciones del caso se llega temprano sin mayores inconvenientes a lo largo del ciclo.",0
+55,"Las clases de hoy sobre Programación Orientada a Objetos porque deja tiempo suficiente para terminar las tareas programadas, así da gusto estudiar de verdad.",0
+56,"Felizmente el profesor de Inteligencia Artificial porque hace que los temas difíciles parezcan súper sencillos, todo bajo control por el momento.",0
+57,"Siento que me voy a jalar el curso de Programación Orientada a Objetos debido a que califica de forma recontra estricta e injusta a todos, no duermo nada y lloro de frustración.",1
+58,"Siento que me voy a jalar el curso de Introducción a la Computación debido a que deja proyectos larguísimos de un día para otro sin avisar, voy a colapsar si sigo así ps.",1
+59,"Estoy recontra quemado por culpa de Estadística Aplicada debido a que sus exámenes no tienen nada que ver con lo avanzado en clase, mis patas ya abandonaron el curso por completo.",1
+60,"Por fin entendí la teoría compleja de Álgebra Lineal porque organiza los grupos de forma equitativa para avanzar tranquilos, así da gusto estudiar de verdad.",0
+61,"Felizmente el profesor de Programación Orientada a Objetos porque maneja un nivel intermedio que permite aprender bien, es un gran aporte para la carrera.",0
+62,"La sobrecarga de trabajos me está matando en Física II debido a que sus exámenes no tienen nada que ver con lo avanzado en clase, ¡esto es un infierno total!",1
+63,"El ciclo va bastante relajado con Gestión de Proyectos porque deja tiempo suficiente para terminar las tareas programadas, así da gusto estudiar de verdad.",0
+64,"La sobrecarga de trabajos me está matando en Investigación de Operaciones debido a que nos tiró un cague total en la última práctica calificada, ya me dio dolor de cabeza de tanto estresarme.",1
+65,"El ingeniero explica excelente los temas de Investigación de Operaciones porque hace que los temas difíciles parezcan súper sencillos, así da gusto estudiar de verdad.",0
+66,"La sobrecarga de trabajos me está matando en Costos y Presupuestos debido a que acumula demasiada teoría pesada y monótona que no se entiende, una palteada total este ciclo académico.",1
+67,"Me siento un pelín desorientada con las nuevas pautas metodológicas que el docente incorporó de forma imprevista para la entrega final del portafolio, espero poder descifrar los requerimientos antes del cierre.",1
+68,Me parece un gran acierto de la cátedra exigir que los informes de investigación sigan un formato editorial sumamente complejo y rígido que consume mucho más tiempo de edición que el desarrollo de la propia solución informática.,1
+69,"Todo tranquilo en el curso de Programación Orientada a Objetos porque no se complica con calificaciones extremas ni sorpresas, así que voy con confianza al examen.",0
+70,"Me siento frustrado y solo en el grupo de Ingeniería de Software debido a que deja proyectos larguísimos de un día para otro sin avisar, ya me dio dolor de cabeza de tanto estresarme.",1
+71,"Las clases de hoy sobre Inteligencia Artificial porque deja tiempo suficiente para terminar las tareas programadas, es un gran aporte para la carrera.",0
+72,"Tengo tres prácticas acumuladas esta semana de Base de Datos debido a que deja proyectos larguísimos de un día para otro sin avisar, voy a colapsar si sigo así ps.",1
+73,"Me gusta bastante la metodología de Programación Orientada a Objetos porque explica paso a paso todo el silabo sin correr, así da gusto estudiar de verdad.",0
+74,"Felizmente el profesor de Cálculo I porque no se complica con calificaciones extremas ni sorpresas, salí muy bien en la última práctica calificada.",0
+75,"No hay mucha carga esta semana en Diseño de Sistemas porque no se complica con calificaciones extremas ni sorpresas, mis patas y yo aprobamos fijos.",0
+76,"Me gusta bastante la metodología de Inteligencia Artificial porque deja tiempo suficiente para terminar las tareas programadas, salí muy bien en la última práctica calificada.",0
+77,"Me gusta bastante la metodología de Redes y Conectividad porque explica con ejemplos reales de la industria peruana, todo bajo control por el momento.",0
+78,"Me gusta bastante la metodología de Álgebra Lineal porque maneja un nivel intermedio que permite aprender bien, salí muy bien en la última práctica calificada.",0
+79,"El ingeniero explica excelente los temas de Cálculo Avanzado porque explica paso a paso todo el silabo sin correr, salí muy bien en la última práctica calificada.",0
+80,"El ciclo va bastante relajado con Ingeniería de Software porque organiza los grupos de forma equitativa para avanzar tranquilos, mis patas y yo aprobamos fijos.",0
+81,"Por fin entendí la teoría compleja de Introducción a la Computación porque dicta de manera muy didáctica y responde dudas, mis patas y yo aprobamos fijos.",0
+82,"Hay días de bastante estudio por los controles de lectura, pero luego viene una semana más tranquila.",0
+83,"Es imposible avanzar con tanta presión en Diseño de Sistemas debido a que califica de forma recontra estricta e injusta a todos, voy a colapsar si sigo así ps.",1
+84,"Todo tranquilo en el curso de Ingeniería de Software porque explica paso a paso todo el silabo sin correr, recomiendo matricularse con él de todas maneras.",0
+85,"Me gusta bastante la metodología de Inteligencia Artificial porque no se complica con calificaciones extremas ni sorpresas, mis patas y yo aprobamos fijos.",0
+86,"Me gusta bastante la metodología de Redes y Conectividad porque hace que los temas difíciles parezcan súper sencillos, es un gran aporte para la carrera.",0
+87,"Siento que me voy a jalar el curso de Estadística Aplicada debido a que explica de forma confusa y encima grita si le preguntas algo, qué roche jalarme por segunda vez esto.",1
+88,"Tengo una ansiedad terrible por el parcial de Cálculo I debido a que deja proyectos larguísimos de un día para otro sin avisar, estoy al borde del colapso emocional.",1
+89,"La sobrecarga de trabajos me está matando en Base de Datos debido a que nos tiró un cague total en la última práctica calificada, mis patas ya abandonaron el curso por completo.",1
+90,"Qué abuso total lo que hace el ingeniero en Estadística Aplicada debido a que nadie en mi grupo ayuda y tengo que hacer todo solo, no duermo nada y lloro de frustración.",1
+91,"La plataforma institucional borró los avances del código fuente almacenados en la nube virtual. Con todo lo que costó estructurar esa arquitectura lógica, reconstruirla desde cero desmorona el optimismo del grupo.",1
+92,"El laboratorio de física aplicada demanda bastante precisión con el uso de los instrumentos de medición digital, un poquito de paciencia y los resultados cuadran perfectamente con la teoría explicada.",0
+93,"Por fin entendí la teoría compleja de Gestión de Proyectos porque organiza los grupos de forma equitativa para avanzar tranquilos, salí muy bien en la última práctica calificada.",0
+94,"Me gusta bastante la metodología de Gestión de Proyectos porque explica con ejemplos reales de la industria peruana, todo bajo control por el momento.",0
+95,"Me siento frustrado y solo en el grupo de Diseño de Sistemas debido a que nadie en mi grupo ayuda y tengo que hacer todo solo, qué roche jalarme por segunda vez esto.",1
+96,"Mi salud está empeorando por culpa de las amanecidas en Introducción a la Computación debido a que sus exámenes no tienen nada que ver con lo avanzado en clase, voy a colapsar si sigo así ps.",1
+97,"Me siento frustrado y solo en el grupo de Ingeniería de Software debido a que califica de forma recontra estricta e injusta a todos, no duermo nada y lloro de frustración.",1
+98,"Me gusta bastante la metodología de Metodologías Ágiles porque explica con ejemplos reales de la industria peruana, recomiendo matricularse con él de todas maneras.",0
+99,"No hay mucha carga esta semana en Cálculo I porque no se complica con calificaciones extremas ni sorpresas, es un gran aporte para la carrera.",0
+100,"La sobrecarga de trabajos me está matando en Base de Datos debido a que califica de forma recontra estricta e injusta a todos, voy a colapsar si sigo así ps.",1
+101,"Con un buen grupo todo sale bien en Metodologías Ágiles porque maneja un nivel intermedio que permite aprender bien, así da gusto estudiar de verdad.",0
+102,"El trabajo de investigación grupal nos permitió profundizar en arquitecturas en la nube sumamente modernas, pero la total inacción de mis compañeros me obligó a asumir una carga laboral excesiva.",1
+103,"Tengo tres prácticas acumuladas esta semana de Física II debido a que explica de forma confusa y encima grita si le preguntas algo, ya me dio dolor de cabeza de tanto estresarme.",1
+104,"La sobrecarga de trabajos me está matando en Base de Datos debido a que nadie en mi grupo ayuda y tengo que hacer todo solo, voy a colapsar si sigo así ps.",1
+105,"Qué abuso total lo que hace el ingeniero en Física II debido a que acumula demasiada teoría pesada y monótona que no se entiende, no duermo nada y lloro de frustración.",1
+106,"Felizmente el profesor de Base de Datos porque explica con ejemplos reales de la industria peruana, es un gran aporte para la carrera.",0
+107,La práctica calificada de mañana constará únicamente de dos preguntas de demostración teórica sumamente extensas y complejas.,1
+108,"Todo tranquilo en el curso de Cálculo Avanzado porque deja tiempo suficiente para terminar las tareas programadas, así que voy con confianza al examen.",0
+109,"Siento un poquito de cansancio por las mañanas debido al viaje en bus hacia el campus, pero nada que un café cargado antes de la clase teórica no pueda solucionar rápidamente.",0
+110,"Tengo una ansiedad terrible por el parcial de Introducción a la Computación debido a que nadie en mi grupo ayuda y tengo que hacer todo solo, mis patas ya abandonaron el curso por completo.",1
+111,"Siento que me voy a jalar el curso de Cálculo Avanzado debido a que deja proyectos larguísimos de un día para otro sin avisar, ya me dio dolor de cabeza de tanto estresarme.",1
+112,"Felizmente el profesor de Inteligencia Artificial porque deja tiempo suficiente para terminar las tareas programadas, así da gusto estudiar de verdad.",0
+113,"La preparación para la sustentación final me tiene un poquito distraído de mis actividades cotidianas, ocupando gran parte de mis pensamientos debido a la rigurosidad metodológica del jurado evaluador institucional.",1
+114,"El ciclo va bastante relajado con Diseño de Sistemas porque explica paso a paso todo el silabo sin correr, es un crack el profe nomás.",0
+115,"Tengo una ansiedad terrible por el parcial de Costos y Presupuestos debido a que nadie en mi grupo ayuda y tengo que hacer todo solo, voy a colapsar si sigo así ps.",1
+116,"Estoy recontra quemado por culpa de Diseño de Sistemas debido a que acumula demasiada teoría pesada y monótona que no se entiende, mis patas ya abandonaron el curso por completo.",1
+117,"Con un buen grupo todo sale bien en Sistemas Operativos porque explica paso a paso todo el silabo sin correr, recomiendo matricularse con él de todas maneras.",0
+118,"No hay mucha carga esta semana en Gestión de Proyectos porque dicta de manera muy didáctica y responde dudas, es un crack el profe nomás.",0
+119,"La sustentación frente al comité externo generaba bastante expectativa en toda la facultad de ingeniería, sin embargo la preparación recibida en el aula nos permitió responder con solvencia y seguridad.",0
+120,"Buenísima la clase de laboratorio en Redes y Conectividad porque hace que los temas difíciles parezcan súper sencillos, así da gusto estudiar de verdad.",0
+121,"Qué abuso total lo que hace el ingeniero en Programación Orientada a Objetos debido a que cambia los criterios de evaluación a última hora siempre, voy a colapsar si sigo así ps.",1
+122,"Buenísima la clase de laboratorio en Cálculo Avanzado porque maneja un nivel intermedio que permite aprender bien, salí muy bien en la última práctica calificada.",0
+123,"El ingeniero explica excelente los temas de Estructuras de Datos porque organiza los grupos de forma equitativa para avanzar tranquilos, recomiendo matricularse con él de todas maneras.",0
+124,"Todo tranquilo en el curso de Costos y Presupuestos porque explica con ejemplos reales de la industria peruana, recomiendo matricularse con él de todas maneras.",0
+125,"Las clases de hoy sobre Estructuras de Datos porque explica con ejemplos reales de la industria peruana, mis patas y yo aprobamos fijos.",0
+126,"La cantidad de información requerida para el portafolio final parecía completamente inmanejable en un inicio, pero distribuyendo las lecturas diariamente el proceso avanzó con absoluta normalidad y fluidez.",0
+127,"Tengo tres prácticas acumuladas esta semana de Sistemas Operativos debido a que acumula demasiada teoría pesada y monótona que no se entiende, mis patas ya abandonaron el curso por completo.",1
+128,"Buenísima la clase de laboratorio en Ingeniería de Software porque no se complica con calificaciones extremas ni sorpresas, así da gusto estudiar de verdad.",0
+129,"Estoy recontra quemado por culpa de Investigación de Operaciones debido a que califica de forma recontra estricta e injusta a todos, qué roche jalarme por segunda vez esto.",1
+130,"Felizmente el profesor de Gestión de Proyectos porque hace que los temas difíciles parezcan súper sencillos, recomiendo matricularse con él de todas maneras.",0
+131,"No hay mucha carga esta semana en Química General porque organiza los grupos de forma equitativa para avanzar tranquilos, salí muy bien en la última práctica calificada.",0
+132,"Es imposible avanzar con tanta presión en Introducción a la Computación debido a que califica de forma recontra estricta e injusta a todos, no duermo nada y lloro de frustración.",1
+133,Los requerimientos del proyecto final de software fueron cambiados completamente a una semana de la sustentación definitiva.,1
+134,"No hay mucha carga esta semana en Base de Datos porque maneja un nivel intermedio que permite aprender bien, es un crack el profe nomás.",0
+135,"Buenísima la clase de laboratorio en Investigación de Operaciones porque explica paso a paso todo el silabo sin correr, así da gusto estudiar de verdad.",0
+136,"Todo tranquilo en el curso de Gestión de Proyectos porque maneja un nivel intermedio que permite aprender bien, así que voy con confianza al examen.",0
+137,"Tengo una ansiedad terrible por el parcial de Cálculo Avanzado debido a que califica de forma recontra estricta e injusta a todos, no duermo nada y lloro de frustración.",1
+138,"Mi salud está empeorando por culpa de las amanecidas en Cálculo I debido a que califica de forma recontra estricta e injusta a todos, ¡esto es un infierno total!",1
+139,"No es un curso regalado de ninguna manera, demanda su tiempo pero se aprende bastante en las clases.",0
+140,"Tengo tres prácticas acumuladas esta semana de Programación Orientada a Objetos debido a que deja proyectos larguísimos de un día para otro sin avisar, mis patas ya abandonaron el curso por completo.",1
+141,"Todo tranquilo en el curso de Costos y Presupuestos porque maneja un nivel intermedio que permite aprender bien, salí muy bien en la última práctica calificada.",0
+142,"Estoy recontra quemado por culpa de Inteligencia Artificial debido a que deja proyectos larguísimos de un día para otro sin avisar, estoy al borde del colapso emocional.",1
+143,"La bibliografía recomendada para la monografía final contiene algunos textos en idioma inglés técnico, con un diccionario básico al costado la traducción de los conceptos principales se realiza de forma sencilla.",0
+144,"El ingeniero explica excelente los temas de Gestión de Proyectos porque dicta de manera muy didáctica y responde dudas, todo bajo control por el momento.",0
+145,"Felizmente el profesor de Base de Datos porque maneja un nivel intermedio que permite aprender bien, mis patas y yo aprobamos fijos.",0
+146,"El ciclo va bastante relajado con Redes y Conectividad porque maneja un nivel intermedio que permite aprender bien, salí muy bien en la última práctica calificada.",0
+147,"Es imposible avanzar con tanta presión en Química General debido a que acumula demasiada teoría pesada y monótona que no se entiende, no duermo nada y lloro de frustración.",1
+148,"Las clases de hoy sobre Inteligencia Artificial porque maneja un nivel intermedio que permite aprender bien, recomiendo matricularse con él de todas maneras.",0
+149,Se me está juntando un poco el cansancio por las continuas amanecidas de esta semana académica.,1
+150,"Tengo tres prácticas acumuladas esta semana de Química General debido a que explica de forma confusa y encima grita si le preguntas algo, estoy al borde del colapso emocional.",1
+151,"Mi salud está empeorando por culpa de las amanecidas en Base de Datos debido a que nos tiró un cague total en la última práctica calificada, mis patas ya abandonaron el curso por completo.",1
+152,"La universidad organizó talleres excelentes orientados a la gestión eficaz de las responsabilidades académicas de fin de ciclo, irónicamente la asistencia a estos eventos consume las horas requeridas para estudiar.",1
+153,"Las clases de hoy sobre Sistemas Operativos porque hace que los temas difíciles parezcan súper sencillos, es un crack el profe nomás.",0
+154,"Todo tranquilo en el curso de Diseño de Sistemas porque explica con ejemplos reales de la industria peruana, mis patas y yo aprobamos fijos.",0
+155,"Las clases de hoy sobre Ingeniería de Software porque no se complica con calificaciones extremas ni sorpresas, mis patas y yo aprobamos fijos.",0
+156,"Con un buen grupo todo sale bien en Química General porque no se complica con calificaciones extremas ni sorpresas, salí muy bien en la última práctica calificada.",0
+157,"El ciclo va bastante relajado con Arquitectura de Computadoras porque dicta de manera muy didáctica y responde dudas, así da gusto estudiar de verdad.",0
+158,"El ingeniero explica excelente los temas de Metodologías Ágiles porque deja tiempo suficiente para terminar las tareas programadas, mis patas y yo aprobamos fijos.",0
+159,"Las clases de hoy sobre Diseño de Sistemas porque organiza los grupos de forma equitativa para avanzar tranquilos, recomiendo matricularse con él de todas maneras.",0
+160,"El examen parcial vino un poquitín complejo en la sección de desarrollo lógico, tampoco es para tanto si es que le dedicaste un par de horas al solucionario del año pasado.",0
+161,"Estoy recontra quemado por culpa de Física II debido a que sus exámenes no tienen nada que ver con lo avanzado en clase, qué roche jalarme por segunda vez esto.",1
+162,"El ciclo va bastante relajado con Química General porque organiza los grupos de forma equitativa para avanzar tranquilos, es un crack el profe nomás.",0
+163,La universidad organizó una serie de conferencias sobre desarrollo de software a las que asistimos de manera virtual.,0
+164,"No hay mucha carga esta semana en Estadística Aplicada porque explica con ejemplos reales de la industria peruana, salí muy bien en la última práctica calificada.",0
+165,"Ya no doy más con las entregas de Investigación de Operaciones debido a que deja proyectos larguísimos de un día para otro sin avisar, qué roche jalarme por segunda vez esto.",1
+166,El curso de Investigación de Operaciones abarca modelos lineales de optimización y simulación estocástica compleja aplicada.,0
+167,"Buenísima la clase de laboratorio en Sistemas Operativos porque dicta de manera muy didáctica y responde dudas, así que voy con confianza al examen.",0
+168,"Mi salud está empeorando por culpa de las amanecidas en Gestión de Proyectos debido a que deja proyectos larguísimos de un día para otro sin avisar, voy a colapsar si sigo así ps.",1
+169,"Me gusta bastante la metodología de Investigación de Operaciones porque no se complica con calificaciones extremas ni sorpresas, así que voy con confianza al examen.",0
+170,"Qué abuso total lo que hace el ingeniero en Cálculo Avanzado debido a que acumula demasiada teoría pesada y monótona que no se entiende, mis patas ya abandonaron el curso por completo.",1
+171,"Tengo una ansiedad terrible por el parcial de Sistemas Operativos debido a que nos tiró un cague total en la última práctica calificada, no duermo nada y lloro de frustración.",1
+172,"El ingeniero explica excelente los temas de Física II porque hace que los temas difíciles parezcan súper sencillos, es un crack el profe nomás.",0
+173,"No hay mucha carga esta semana en Gestión de Proyectos porque no se complica con calificaciones extremas ni sorpresas, así da gusto estudiar de verdad.",0
+174,"Buenísima la clase de laboratorio en Base de Datos porque maneja un nivel intermedio que permite aprender bien, así da gusto estudiar de verdad.",0
+175,"Ya no doy más con las entregas de Estructuras de Datos debido a que sus exámenes no tienen nada que ver con lo avanzado en clase, no duermo nada y lloro de frustración.",1
+176,"El profesor avanza un poco rápido las diapositivas, por lo que toca revisar las grabaciones después de clases.",0
+177,"Felizmente el profesor de Metodologías Ágiles porque hace que los temas difíciles parezcan súper sencillos, mis patas y yo aprobamos fijos.",0
+178,"Siento que me voy a jalar el curso de Costos y Presupuestos debido a que nos tiró un cague total en la última práctica calificada, qué roche jalarme por segunda vez esto.",1
+179,"Tengo tres prácticas acumuladas esta semana de Costos y Presupuestos debido a que califica de forma recontra estricta e injusta a todos, estoy al borde del colapso emocional.",1
+180,"No hay mucha carga esta semana en Ingeniería de Software porque dicta de manera muy didáctica y responde dudas, salí muy bien en la última práctica calificada.",0
+181,"Me siento frustrado y solo en el grupo de Diseño de Sistemas debido a que deja proyectos larguísimos de un día para otro sin avisar, no duermo nada y lloro de frustración.",1
+182,Me quedé dormido en la clase de hoy debido al cansancio acumulado por estudiar la noche anterior.,1
+183,"El ciclo va bastante relajado con Gestión de Proyectos porque explica con ejemplos reales de la industria peruana, todo bajo control por el momento.",0
+184,"No hay mucha carga esta semana en Cálculo Avanzado porque maneja un nivel intermedio que permite aprender bien, así que voy con confianza al examen.",0
+185,"Me gusta bastante la metodología de Costos y Presupuestos porque organiza los grupos de forma equitativa para avanzar tranquilos, recomiendo matricularse con él de todas maneras.",0
+186,Pasé toda la noche repasando detalladamente los teoremas más complejos de la guía analítica; afortunadamente el examen resultó sumamente directo y pude resolverlo sin ningún inconveniente técnico.,0
+187,"Las fechas de las prácticas calificadas se superpusieron con las entregas de los proyectos de diseño de software interactivo. Manejar aquello simultáneamente demanda una exigencia física desmedida; el mes anterior transcurrió pacíficamente, esta semana es un desborde total.",1
+188,"Estoy recontra quemado por culpa de Ingeniería de Software debido a que nos tiró un cague total en la última práctica calificada, no duermo nada y lloro de frustración.",1
+189,"Tengo tres prácticas acumuladas esta semana de Cálculo Avanzado debido a que nadie en mi grupo ayuda y tengo que hacer todo solo, no duermo nada y lloro de frustración.",1
+190,"Tengo una ansiedad terrible por el parcial de Metodologías Ágiles debido a que explica de forma confusa y encima grita si le preguntas algo, qué roche jalarme por segunda vez esto.",1
+191,"No hay mucha carga esta semana en Diseño de Sistemas porque organiza los grupos de forma equitativa para avanzar tranquilos, así que voy con confianza al examen.",0
+192,"Me saqué una nota algo bajita en la primera práctica calificada de álgebra lineal, por suerte queda bastante camino por recorrer y las siguientes evaluaciones tienen un peso porcentual significativamente mayor.",0
+193,"Me gusta bastante la metodología de Metodologías Ágiles porque dicta de manera muy didáctica y responde dudas, es un gran aporte para la carrera.",0
+194,"El ciclo va bastante relajado con Base de Datos porque organiza los grupos de forma equitativa para avanzar tranquilos, así da gusto estudiar de verdad.",0
+195,"Compré el manual completo de fórmulas estadísticas al iniciar el periodo académico. Consultar ese recurso constantemente me permitió entender la parte operativa de los laboratorios; antes dependía de explicaciones externas, hoy soy autónomo.",0
+196,"Tampoco es que planee abandonar la asignatura por completo debido a la calificación obtenida, pero me causa cierto desánimo ver que el esfuerzo dedicado no se ve reflejado en el registro oficial.",1
+197,"Tengo una ansiedad terrible por el parcial de Química General debido a que nos tiró un cague total en la última práctica calificada, estoy al borde del colapso emocional.",1
+198,El laboratorio de Inteligencia Artificial requiere el uso de servidores externos que se caen constantemente por saturación.,1
+199,"El ingeniero explica excelente los temas de Diseño de Sistemas porque hace que los temas difíciles parezcan súper sencillos, todo bajo control por el momento.",0
+200,Hoy expusimos los resultados estadísticos del proyecto de investigación frente al jurado invitado en el auditorio principal.,0
+201,"El temario desarrollado a lo largo del semestre resultó sumamente interesante para mi perfil enfocado en ciencia de datos, lamentablemente la forma en que se estructuraron las evaluaciones finales arruinó la experiencia.",1
+202,"Los laboratorios guiados del curso de redes permiten practicar con equipos tecnológicos reales y modernos, pero la rigidez del sistema de calificación reduce significativamente el entusiasmo por experimentar nuevas soluciones.",1
+203,Los grupos para el trabajo de investigación de fin de ciclo deben estar integrados por un máximo de cuatro personas.,0
+204,"El ambiente físico del campus universitario es sumamente agradable y propicio para el estudio grupal diario, aunque la acumulación de evaluaciones continuas me impide disfrutar de los espacios comunes del establecimiento.",1
+205,"Me gusta bastante la metodología de Costos y Presupuestos porque deja tiempo suficiente para terminar las tareas programadas, mis patas y yo aprobamos fijos.",0
+206,"El ciclo va bastante relajado con Diseño de Sistemas porque no se complica con calificaciones extremas ni sorpresas, mis patas y yo aprobamos fijos.",0
+207,Tengo bastantes cosas por repasar y el tiempo útil del día me está quedando un poco corto últimamente.,1
+208,"La entrega del informe final coincide con otra práctica, tocará organizarse bien entre lunes y martes.",0
+209,"Ya no doy más con las entregas de Redes y Conectividad debido a que cambia los criterios de evaluación a última hora siempre, qué roche jalarme por segunda vez esto.",1
+210,"Con un buen grupo todo sale bien en Programación Orientada a Objetos porque hace que los temas difíciles parezcan súper sencillos, es un gran aporte para la carrera.",0
+211,"Me gusta bastante la metodología de Investigación de Operaciones porque no se complica con calificaciones extremas ni sorpresas, así da gusto estudiar de verdad.",0
+212,"Qué abuso total lo que hace el ingeniero en Ingeniería de Software debido a que deja proyectos larguísimos de un día para otro sin avisar, ya me dio dolor de cabeza de tanto estresarme.",1
+213,"Con un buen grupo todo sale bien en Costos y Presupuestos porque no se complica con calificaciones extremas ni sorpresas, es un crack el profe nomás.",0
+214,El aula asignada para el examen de Costos no cuenta con la capacidad suficiente para todos los alumnos matriculados.,1
+215,"Mi salud está empeorando por culpa de las amanecidas en Ingeniería de Software debido a que sus exámenes no tienen nada que ver con lo avanzado en clase, ¡esto es un infierno total!",1
+216,"Tengo una ansiedad terrible por el parcial de Gestión de Proyectos debido a que califica de forma recontra estricta e injusta a todos, estoy al borde del colapso emocional.",1
+217,"Tengo una ansiedad terrible por el parcial de Estadística Aplicada debido a que explica de forma confusa y encima grita si le preguntas algo, ¡esto es un infierno total!",1
+218,"Al principio me costó adaptarme al ritmo de enseñanza dinámica del nuevo profesor extranjero, pero con el transcurrir de las semanas sus clases se volvieron las más interesantes del ciclo.",0
+219,"El profesor tiene una forma de corregir los laboratorios informáticos que resulta un poquitín desalentadora, minando sutilmente la confianza que tenía respecto a mis capacidades para el desarrollo de código complejo.",1
+220,"Buenísima la clase de laboratorio en Estructuras de Datos porque dicta de manera muy didáctica y responde dudas, salí muy bien en la última práctica calificada.",0
+221,"Tengo una ansiedad terrible por el parcial de Química General debido a que nadie en mi grupo ayuda y tengo que hacer todo solo, estoy al borde del colapso emocional.",1
+222,"Con un buen grupo todo sale bien en Gestión de Proyectos porque dicta de manera muy didáctica y responde dudas, es un crack el profe nomás.",0
+223,"Qué abuso total lo que hace el ingeniero en Gestión de Proyectos debido a que cambia los criterios de evaluación a última hora siempre, voy a colapsar si sigo así ps.",1
+224,"El ingeniero explica excelente los temas de Metodologías Ágiles porque organiza los grupos de forma equitativa para avanzar tranquilos, es un gran aporte para la carrera.",0
+225,"La sobrecarga de trabajos me está matando en Programación Orientada a Objetos debido a que cambia los criterios de evaluación a última hora siempre, mis patas ya abandonaron el curso por completo.",1
+226,"Por fin entendí la teoría compleja de Metodologías Ágiles porque hace que los temas difíciles parezcan súper sencillos, todo bajo control por el momento.",0
+227,"Tengo una ansiedad terrible por el parcial de Base de Datos debido a que califica de forma recontra estricta e injusta a todos, mis patas ya abandonaron el curso por completo.",1
+228,"No es que la materia sea imposible de aprobar para un estudiante promedio, pero el ritmo vertiginoso de las evaluaciones continuas me deja con un cansancio mental que me cuesta disimular diariamente.",1
+229,"El ciclo va bastante relajado con Arquitectura de Computadoras porque explica con ejemplos reales de la industria peruana, así da gusto estudiar de verdad.",0
+230,"Estoy recontra quemado por culpa de Diseño de Sistemas debido a que nadie en mi grupo ayuda y tengo que hacer todo solo, qué roche jalarme por segunda vez esto.",1
+231,"Disfruto mucho programando soluciones algorítmicas complejas en el laboratorio de cómputo durante las tardes, pero la presión por cumplir con el estándar métrico del ingeniero me genera un malestar persistente.",1
+232,"Las clases de hoy sobre Diseño de Sistemas porque maneja un nivel intermedio que permite aprender bien, recomiendo matricularse con él de todas maneras.",0
+233,"Tengo tres prácticas acumuladas esta semana de Costos y Presupuestos debido a que deja proyectos larguísimos de un día para otro sin avisar, qué roche jalarme por segunda vez esto.",1
+234,"Por fin entendí la teoría compleja de Arquitectura de Computadoras porque maneja un nivel intermedio que permite aprender bien, es un crack el profe nomás.",0
+235,La docente simplificó los criterios de la rúbrica de evaluación durante la última sesión virtual. Aquella modificación oportuna redujo la complejidad innecesaria del entregable escrito; ahora completamos el informe siguiendo pautas directas.,0
+236,"Todo tranquilo en el curso de Física II porque maneja un nivel intermedio que permite aprender bien, así que voy con confianza al examen.",0
+237,"Buenísima la clase de laboratorio en Diseño de Sistemas porque explica paso a paso todo el silabo sin correr, es un gran aporte para la carrera.",0
+238,"Me gusta bastante la metodología de Álgebra Lineal porque organiza los grupos de forma equitativa para avanzar tranquilos, es un gran aporte para la carrera.",0
+239,"Felizmente el profesor de Gestión de Proyectos porque explica paso a paso todo el silabo sin correr, todo bajo control por el momento.",0
+240,"La sobrecarga de trabajos me está matando en Cálculo Avanzado debido a que acumula demasiada teoría pesada y monótona que no se entiende, no duermo nada y lloro de frustración.",1
+241,"Mi salud está empeorando por culpa de las amanecidas en Ingeniería de Software debido a que acumula demasiada teoría pesada y monótona que no se entiende, no duermo nada y lloro de frustración.",1
+242,"El ciclo va bastante relajado con Inteligencia Artificial porque maneja un nivel intermedio que permite aprender bien, recomiendo matricularse con él de todas maneras.",0
+243,"Es imposible avanzar con tanta presión en Diseño de Sistemas debido a que cambia los criterios de evaluación a última hora siempre, qué roche jalarme por segunda vez esto.",1
+244,"El horario nocturno de la asignatura resulta sumamente pesado tras una jornada laboral completa, pero la dinámica participativa implementada por la profesora hace que las horas transcurran de forma amena.",0
+245,"El ciclo avanza rápido y los temas de Cálculo se complican un poco, pero asistiendo a las asesorías se entiende.",0
+246,"Tengo una ansiedad terrible por el parcial de Sistemas Operativos debido a que cambia los criterios de evaluación a última hora siempre, mis patas ya abandonaron el curso por completo.",1
+247,Qué maravillosa sorpresa es llegar al campus para rendir una evaluación y enterarse en la puerta del pabellón de que el docente cambió los temas del examen por otros que corresponden al siguiente ciclo académico.,1
+248,"Por fin entendí la teoría compleja de Redes y Conectividad porque no se complica con calificaciones extremas ni sorpresas, es un gran aporte para la carrera.",0
+249,"Es imposible avanzar con tanta presión en Inteligencia Artificial debido a que nadie en mi grupo ayuda y tengo que hacer todo solo, qué roche jalarme por segunda vez esto.",1
+250,El ingeniero encargado del curso de Redes y Conectividad no asistirá a la revisión presencial de las calificaciones.,1
+251,"Siento un desgaste normal por las fechas finales del semestre, el cuerpo ya pide vacaciones urgentes.",1
+252,El sistema de la universidad colapsó justo una hora antes del cierre de la entrega del proyecto final.,1
+253,"Por fin entendí la teoría compleja de Cálculo I porque deja tiempo suficiente para terminar las tareas programadas, recomiendo matricularse con él de todas maneras.",0
+254,Resulta sumamente motivador abrir la prueba escrita de ingeniería de software y descubrir que el primer enunciado práctico requiere el uso de una herramienta tecnológica que nunca fue mencionada en las clases teóricas presenciales.,1
+255,"El ciclo va bastante relajado con Gestión de Proyectos porque maneja un nivel intermedio que permite aprender bien, es un crack el profe nomás.",0
+256,El ingeniero de sistemas operativos canceló las horas de asesoría presencial programadas para la revisión de los algoritmos de concurrencia. Dejarnos sin ese soporte fundamental a pocos días del examen final incrementa las dudas colectivas sobre el promedio.,1
+257,"El ciclo va bastante relajado con Cálculo Avanzado porque explica con ejemplos reales de la industria peruana, así da gusto estudiar de verdad.",0
+258,Tengo un leve dolor de espalda por pasar tantas horas consecutivas frente a la laptop programando el laboratorio.,1
+259,"El proyecto de bases de datos requiere avanzar unos cuantos diagramas adicionales este fin de semana, un pequeño esfuerzo extra y cerramos de forma definitiva el segundo entregable del curso.",0
+260,"Qué abuso total lo que hace el ingeniero en Estadística Aplicada debido a que califica de forma recontra estricta e injusta a todos, mis patas ya abandonaron el curso por completo.",1
+261,"La sobrecarga de trabajos me está matando en Gestión de Proyectos debido a que sus exámenes no tienen nada que ver con lo avanzado en clase, no duermo nada y lloro de frustración.",1
+262,"Qué abuso total lo que hace el ingeniero en Gestión de Proyectos debido a que nos tiró un cague total en la última práctica calificada, no duermo nada y lloro de frustración.",1
+263,"Tengo tres prácticas acumuladas esta semana de Estadística Aplicada debido a que explica de forma confusa y encima grita si le preguntas algo, mis patas ya abandonaron el curso por completo.",1
+264,"Las clases de hoy sobre Ingeniería de Software porque explica paso a paso todo el silabo sin correr, mis patas y yo aprobamos fijos.",0
+265,El docente de Cálculo anunció que el examen parcial abarcará tres capítulos adicionales que no se explicaron completamente.,1
+266,"El ingeniero explica excelente los temas de Inteligencia Artificial porque hace que los temas difíciles parezcan súper sencillos, mis patas y yo aprobamos fijos.",0
+267,"Por fin entendí la teoría compleja de Costos y Presupuestos porque no se complica con calificaciones extremas ni sorpresas, salí muy bien en la última práctica calificada.",0
+268,Me parece una decisión sumamente acertada por parte del ingeniero dictar la teoría avanzada de redes y conectividad a una velocidad tal que tomar apuntes legibles se convierta en un deporte de alto riesgo académico.,1
+269,"Mi salud está empeorando por culpa de las amanecidas en Diseño de Sistemas debido a que nos tiró un cague total en la última práctica calificada, qué roche jalarme por segunda vez esto.",1
+270,"Es imposible avanzar con tanta presión en Física II debido a que acumula demasiada teoría pesada y monótona que no se entiende, una palteada total este ciclo académico.",1
+271,Ayer revisamos el reglamento general de la facultad para conocer los requisitos de los créditos extracurriculares obligatorios.,0
+272,"Por fin entendí la teoría compleja de Arquitectura de Computadoras porque no se complica con calificaciones extremas ni sorpresas, así que voy con confianza al examen.",0
+273,"Qué abuso total lo que hace el ingeniero en Química General debido a que cambia los criterios de evaluación a última hora siempre, qué roche jalarme por segunda vez esto.",1
+274,La biblioteca extendió su horario de atención presencial durante las semanas correspondientes a las evaluaciones parciales.,0
+275,"Por fin entendí la teoría compleja de Química General porque dicta de manera muy didáctica y responde dudas, todo bajo control por el momento.",0
+276,El docente es algo serio al calificar pero si justificas bien tus respuestas te reconoce el puntaje completo.,0
+277,"El ingeniero es un profesional brillante y sus clases magistrales son un verdadero lujo académico para la universidad, pero la cantidad de tareas simultáneas que asigna sobrepasa mi capacidad de respuesta actual.",1
+278,"Mi salud está empeorando por culpa de las amanecidas en Gestión de Proyectos debido a que acumula demasiada teoría pesada y monótona que no se entiende, estoy al borde del colapso emocional.",1
+279,El docente no responde los correos de dudas y eso me causa confusión al momento de resolver la guía de ejercicios.,1
+280,"El ciclo va bastante relajado con Estructuras de Datos porque explica con ejemplos reales de la industria peruana, es un gran aporte para la carrera.",0
+281,"Qué gran tranquilidad mental aporta saber que las notas de la primera práctica calificada se publicarán recién un día antes del examen final del curso, permitiendo planificar el promedio con absoluta precisión matemática.",1
+282,"Tengo tres prácticas acumuladas esta semana de Base de Datos debido a que nadie en mi grupo ayuda y tengo que hacer todo solo, ya me dio dolor de cabeza de tanto estresarme.",1
+283,"Tengo una ansiedad terrible por el parcial de Costos y Presupuestos debido a que sus exámenes no tienen nada que ver con lo avanzado en clase, mis patas ya abandonaron el curso por completo.",1
+284,"El ingeniero explicó los modelos lineales detalladamente el lunes pasado. Eso sirvió enormemente para resolver el cuestionario de hoy; antes no entendía la aplicación práctica, ahora todo tiene perfecto sentido.",0
+285,"Siento que me voy a jalar el curso de Álgebra Lineal debido a que acumula demasiada teoría pesada y monótona que no se entiende, voy a colapsar si sigo así ps.",1
+286,Cambiaron el aula de la clase teórica de Física II a los laboratorios del tercer piso por temas logísticos.,0
+287,"Mi salud está empeorando por culpa de las amanecidas en Cálculo Avanzado debido a que sus exámenes no tienen nada que ver con lo avanzado en clase, no duermo nada y lloro de frustración.",1
+288,"El ciclo va bastante relajado con Investigación de Operaciones porque no se complica con calificaciones extremas ni sorpresas, recomiendo matricularse con él de todas maneras.",0
+289,Hoy por la mañana el docente dictó la clase teórica sobre algoritmos de ordenamiento avanzados en entornos distribuidos.,0
+290,"Estoy recontra quemado por culpa de Estadística Aplicada debido a que califica de forma recontra estricta e injusta a todos, voy a colapsar si sigo así ps.",1
+291,Qué magnífica forma de motivar al alumnado tiene la profesora al recordarnos al inicio de cada sesión teórica que estadísticamente el sesenta por ciento del salón suele jalar la materia de forma definitiva.,1
+292,"Todo tranquilo en el curso de Álgebra Lineal porque no se complica con calificaciones extremas ni sorpresas, todo bajo control por el momento.",0
+293,Me fascina la idea de conformar grupos de trabajo de forma aleatoria utilizando el sistema informático de la universidad para los proyectos más importantes del periodo lectivo en curso.,0
+294,"Tengo una ansiedad terrible por el parcial de Álgebra Lineal debido a que califica de forma recontra estricta e injusta a todos, ¡esto es un infierno total!",1
+295,"El ingeniero explica excelente los temas de Álgebra Lineal porque explica con ejemplos reales de la industria peruana, recomiendo matricularse con él de todas maneras.",0
+296,"Me siento frustrado y solo en el grupo de Programación Orientada a Objetos debido a que cambia los criterios de evaluación a última hora siempre, ya me dio dolor de cabeza de tanto estresarme.",1
+297,"El ciclo va bastante relajado con Cálculo I porque maneja un nivel intermedio que permite aprender bien, mis patas y yo aprobamos fijos.",0
+298,Qué maravillosa experiencia enterarse de que la práctica calificada de álgebra lineal se adelantó una semana entera gracias a un aviso de cinco palabras en el aula virtual de la universidad.,1
+299,Hay bastantes lecturas en la carrera pero organizándose bien se puede manejar el fin de semana.,0
+300,"Me gusta bastante la metodología de Metodologías Ágiles porque hace que los temas difíciles parezcan súper sencillos, todo bajo control por el momento.",0
+301,"Todo tranquilo en el curso de Introducción a la Computación porque explica paso a paso todo el silabo sin correr, recomiendo matricularse con él de todas maneras.",0
+302,"El ciclo va bastante relajado con Redes y Conectividad porque deja tiempo suficiente para terminar las tareas programadas, recomiendo matricularse con él de todas maneras.",0
+303,"Las clases de hoy sobre Cálculo I porque explica paso a paso todo el silabo sin correr, recomiendo matricularse con él de todas maneras.",0
+304,"El delegado gestionó una prórroga extraordinaria para subir el archivo final a la plataforma. Eso trajo tranquilidad a todo el salón; hace días imperaba el desconcierto, ahora avanzamos con absoluta calma.",0
+305,"El ciclo va bastante relajado con Física II porque no se complica con calificaciones extremas ni sorpresas, recomiendo matricularse con él de todas maneras.",0
+306,"No es que me sienta totalmente superada por las circunstancias del ciclo académico, pero tengo un leve dolor de cabeza persistente debido a las escasas horas de sueño de esta última semana.",1
+307,"Buenísima la clase de laboratorio en Redes y Conectividad porque explica con ejemplos reales de la industria peruana, mis patas y yo aprobamos fijos.",0
+308,"Felizmente el profesor de Costos y Presupuestos porque explica paso a paso todo el silabo sin correr, así que voy con confianza al examen.",0
+309,"Me siento frustrado y solo en el grupo de Programación Orientada a Objetos debido a que explica de forma confusa y encima grita si le preguntas algo, ¡esto es un infierno total!",1
+310,"La sobrecarga de trabajos me está matando en Costos y Presupuestos debido a que cambia los criterios de evaluación a última hora siempre, ¡esto es un infierno total!",1
+311,"El ciclo va bastante relajado con Diseño de Sistemas porque deja tiempo suficiente para terminar las tareas programadas, mis patas y yo aprobamos fijos.",0
+312,"El ingeniero explica excelente los temas de Cálculo Avanzado porque deja tiempo suficiente para terminar las tareas programadas, es un gran aporte para la carrera.",0
+313,"No hay mucha carga esta semana en Sistemas Operativos porque organiza los grupos de forma equitativa para avanzar tranquilos, mis patas y yo aprobamos fijos.",0
+314,"Ya no doy más con las entregas de Cálculo I debido a que sus exámenes no tienen nada que ver con lo avanzado en clase, ya me dio dolor de cabeza de tanto estresarme.",1
+315,"Es imposible avanzar con tanta presión en Cálculo I debido a que nos tiró un cague total en la última práctica calificada, ya me dio dolor de cabeza de tanto estresarme.",1
+316,"Tengo los ojos algo cansados por la cantidad de horas consecutivas que demanda la revisión de las bases de datos relacionales para el proyecto, requiero un respiro prolongado de las pantallas digitales.",1
+317,"Muchos estudiantes de ciclos superiores comentaban que aprobar este curso era una tarea casi imposible, no obstante la dedicación constante demostró que con orden se consiguen excelentes resultados académicos.",0
+318,"El laboratorio requiere instalar varios programas pesados, toma tiempo configurarlo pero al final corre todo bien.",0
+319,"Tengo tres prácticas acumuladas esta semana de Costos y Presupuestos debido a que nos tiró un cague total en la última práctica calificada, ya me dio dolor de cabeza de tanto estresarme.",1
+320,"Aprobé el control de lectura inicial con un puntaje perfecto tras revisar los documentos sugeridos por la cátedra, pero el nivel de exigencia se duplicó para la segunda evaluación sin previo aviso.",1
+321,"Con un buen grupo todo sale bien en Física II porque dicta de manera muy didáctica y responde dudas, recomiendo matricularse con él de todas maneras.",0
+322,"Buenísima la clase de laboratorio en Base de Datos porque deja tiempo suficiente para terminar las tareas programadas, mis patas y yo aprobamos fijos.",0
+323,"No hay mucha carga esta semana en Sistemas Operativos porque deja tiempo suficiente para terminar las tareas programadas, todo bajo control por el momento.",0
+324,Coordinar con cinco personas por chat para un trabajo complejo suele desgastarme mentalmente a mitad de semana.,1
+325,"La metodología basada en proyectos autónomos genera incertidumbre al no tener clases magistrales tradicionales, pero fomenta el autoaprendizaje y brinda herramientas prácticas muy valiosas para la vida profesional.",0
+326,"El equipo de desarrollo dividió las tareas funcionales utilizando un tablero digital interactivo el lunes por la mañana. Organizados de ese modo, cada integrante completó su sección asignada oportunamente; el resultado final cumple el estándar pedagógico.",0
+327,"Agradezco enormemente la paciencia del delegado del curso para explicar las pautas del informe escrito, sin embargo las horas del día no me bastan para abarcar toda la bibliografía obligatoria asignada.",1
+328,"Me gusta bastante la metodología de Programación Orientada a Objetos porque deja tiempo suficiente para terminar las tareas programadas, es un gran aporte para la carrera.",0
+329,"Buenísima la clase de laboratorio en Química General porque explica con ejemplos reales de la industria peruana, es un gran aporte para la carrera.",0
+330,"Las clases de hoy sobre Introducción a la Computación porque explica con ejemplos reales de la industria peruana, salí muy bien en la última práctica calificada.",0
+331,"No hay mucha carga esta semana en Estructuras de Datos porque deja tiempo suficiente para terminar las tareas programadas, mis patas y yo aprobamos fijos.",0
+332,La rúbrica detallada del proyecto de fin de ciclo fue compartida por el correo institucional la semana pasada.,0
+333,El ingeniero utiliza una tableta digital para realizar los diagramas de flujo durante la sesión teórica presencial.,0
+334,"Mi salud está empeorando por culpa de las amanecidas en Inteligencia Artificial debido a que explica de forma confusa y encima grita si le preguntas algo, ¡esto es un infierno total!",1
+335,"Con un buen grupo todo sale bien en Metodologías Ágiles porque explica con ejemplos reales de la industria peruana, es un gran aporte para la carrera.",0
+336,"No hay mucha carga esta semana en Ingeniería de Software porque maneja un nivel intermedio que permite aprender bien, salí muy bien en la última práctica calificada.",0
+337,La delegada del curso renunció de forma irrevocable a sus funciones organizativas a mitad de la semana. Su repentina partida dejó los proyectos grupales a la deriva y sin una dirección clara; todo se volvió caótico de un momento a otro.,1
+338,"El ciclo va bastante relajado con Química General porque dicta de manera muy didáctica y responde dudas, así que voy con confianza al examen.",0
+339,"No hay mucha carga esta semana en Redes y Conectividad porque explica con ejemplos reales de la industria peruana, salí muy bien en la última práctica calificada.",0
+340,"El ingeniero explica excelente los temas de Física II porque organiza los grupos de forma equitativa para avanzar tranquilos, así que voy con confianza al examen.",0
+341,"Es imposible avanzar con tanta presión en Introducción a la Computación debido a que nadie en mi grupo ayuda y tengo que hacer todo solo, ¡esto es un infierno total!",1
+342,La coordinadora del curso rechazó la justificación médica presentada por el delegado para posponer la evaluación grupal.,1
+343,"La sobrecarga de trabajos me está matando en Álgebra Lineal debido a que deja proyectos larguísimos de un día para otro sin avisar, voy a colapsar si sigo así ps.",1
+344,"Tengo tres prácticas acumuladas esta semana de Cálculo Avanzado debido a que sus exámenes no tienen nada que ver con lo avanzado en clase, una palteada total este ciclo académico.",1
+345,"El ciclo va bastante relajado con Álgebra Lineal porque deja tiempo suficiente para terminar las tareas programadas, es un crack el profe nomás.",0
+346,"Por fin entendí la teoría compleja de Diseño de Sistemas porque deja tiempo suficiente para terminar las tareas programadas, es un gran aporte para la carrera.",0
+347,"Qué abuso total lo que hace el ingeniero en Metodologías Ágiles debido a que nadie en mi grupo ayuda y tengo que hacer todo solo, ya me dio dolor de cabeza de tanto estresarme.",1
+348,"Ya no doy más con las entregas de Ingeniería de Software debido a que cambia los criterios de evaluación a última hora siempre, mis patas ya abandonaron el curso por completo.",1
+349,"El ingeniero explica excelente los temas de Inteligencia Artificial porque organiza los grupos de forma equitativa para avanzar tranquilos, salí muy bien en la última práctica calificada.",0
+350,Me parece una estrategia formidable de la coordinación académica establecer exámenes de rezagados con un nivel de complejidad significativamente superior al de las pruebas ordinarias aplicadas durante el ciclo escolar.,0
+351,"Con un buen grupo todo sale bien en Álgebra Lineal porque organiza los grupos de forma equitativa para avanzar tranquilos, recomiendo matricularse con él de todas maneras.",0
+352,"Me gusta bastante la metodología de Redes y Conectividad porque dicta de manera muy didáctica y responde dudas, mis patas y yo aprobamos fijos.",0
+353,"El ingeniero explica excelente los temas de Física II porque organiza los grupos de forma equitativa para avanzar tranquilos, así da gusto estudiar de verdad.",0
+354,"Qué abuso total lo que hace el ingeniero en Álgebra Lineal debido a que explica de forma confusa y encima grita si le preguntas algo, ya me dio dolor de cabeza de tanto estresarme.",1
+355,"La sobrecarga de trabajos me está matando en Gestión de Proyectos debido a que cambia los criterios de evaluación a última hora siempre, no duermo nada y lloro de frustración.",1
+356,"Mi salud está empeorando por culpa de las amanecidas en Introducción a la Computación debido a que deja proyectos larguísimos de un día para otro sin avisar, estoy al borde del colapso emocional.",1
+357,"Me siento frustrado y solo en el grupo de Redes y Conectividad debido a que nos tiró un cague total en la última práctica calificada, una palteada total este ciclo académico.",1
+358,Qué buena decisión de la universidad programar las conferencias magistrales obligatorias para los estudiantes los días sábados por la tarde durante las semanas de exámenes parciales.,0
+359,"Es imposible avanzar con tanta presión en Costos y Presupuestos debido a que nadie en mi grupo ayuda y tengo que hacer todo solo, mis patas ya abandonaron el curso por completo.",1
+360,"Me gusta bastante la metodología de Química General porque dicta de manera muy didáctica y responde dudas, salí muy bien en la última práctica calificada.",0
+361,"Tengo tres prácticas acumuladas esta semana de Cálculo Avanzado debido a que sus exámenes no tienen nada que ver con lo avanzado en clase, no duermo nada y lloro de frustración.",1
+362,"El ciclo va bastante relajado con Programación Orientada a Objetos porque explica paso a paso todo el silabo sin correr, así da gusto estudiar de verdad.",0
+363,"Felizmente el profesor de Gestión de Proyectos porque dicta de manera muy didáctica y responde dudas, así da gusto estudiar de verdad.",0
+364,"Tengo una ansiedad terrible por el parcial de Estadística Aplicada debido a que sus exámenes no tienen nada que ver con lo avanzado en clase, no duermo nada y lloro de frustración.",1
+365,"Felizmente el profesor de Costos y Presupuestos porque deja tiempo suficiente para terminar las tareas programadas, así da gusto estudiar de verdad.",0
+366,"Tengo una ansiedad terrible por el parcial de Álgebra Lineal debido a que sus exámenes no tienen nada que ver con lo avanzado en clase, ¡esto es un infierno total!",1
+367,"Tengo una ansiedad terrible por el parcial de Introducción a la Computación debido a que califica de forma recontra estricta e injusta a todos, ¡esto es un infierno total!",1
+368,"Por fin entendí la teoría compleja de Gestión de Proyectos porque explica paso a paso todo el silabo sin correr, es un gran aporte para la carrera.",0
+369,La rúbrica de evaluación es un poco ambigua y eso me causa inseguridad sobre lo que espera el ingeniero.,1
+370,"Las clases de hoy sobre Costos y Presupuestos porque explica con ejemplos reales de la industria peruana, recomiendo matricularse con él de todas maneras.",0
+371,"Con un buen grupo todo sale bien en Ingeniería de Software porque deja tiempo suficiente para terminar las tareas programadas, así da gusto estudiar de verdad.",0
+372,"Todo tranquilo en el curso de Estadística Aplicada porque organiza los grupos de forma equitativa para avanzar tranquilos, así que voy con confianza al examen.",0
+373,"Me siento frustrado y solo en el grupo de Diseño de Sistemas debido a que acumula demasiada teoría pesada y monótona que no se entiende, estoy al borde del colapso emocional.",1
+374,"Por fin entendí la teoría compleja de Ingeniería de Software porque no se complica con calificaciones extremas ni sorpresas, recomiendo matricularse con él de todas maneras.",0
+375,Qué excelente política pedagógica la de evaluar el desempeño de todo un ciclo basándose en una sola pregunta capciosa formulada durante una sustentación oral de cinco minutos frente a un jurado sumamente severo.,1
+376,"Tenemos una exposición pesada mañana, pero felizmente avanzamos gran parte del informe con anticipación.",0
+377,"Cambiamos la base de datos completa a mitad del desarrollo del proyecto informático. Con todo lo que implicó esa decisión estratégica, logramos optimizar los tiempos de respuesta del sistema de manera definitiva.",0
+378,"La sobrecarga de trabajos me está matando en Base de Datos debido a que explica de forma confusa y encima grita si le preguntas algo, no duermo nada y lloro de frustración.",1
+379,"El ingeniero cambió radicalmente las condiciones del laboratorio de redes ayer por la tarde. Eso alteró por completo mis planes de estudio para el fin de semana; antes manejaba mis tiempos, hoy reina la incertidumbre.",1
+380,El profesor de gestión de proyectos se ausentó de las sesiones de retroalimentación crítica durante todo el último mes del semestre. Esa prolongada ausencia docente dejó a los alumnos sin una guía metodológica clara para la validación de los entregables financieros finales.,1
+381,"Es imposible avanzar con tanta presión en Metodologías Ágiles debido a que deja proyectos larguísimos de un día para otro sin avisar, voy a colapsar si sigo así ps.",1
+382,"Ya no doy más con las entregas de Gestión de Proyectos debido a que califica de forma recontra estricta e injusta a todos, no duermo nada y lloro de frustración.",1
+383,"El ingeniero de Sistemas Operativos exige bastante puntualidad, aunque sus evaluaciones son bastante predecibles.",0
+384,"Por fin entendí la teoría compleja de Estadística Aplicada porque dicta de manera muy didáctica y responde dudas, así da gusto estudiar de verdad.",0
+385,"Estoy recontra quemado por culpa de Introducción a la Computación debido a que sus exámenes no tienen nada que ver con lo avanzado en clase, no duermo nada y lloro de frustración.",1
+386,"Qué abuso total lo que hace el ingeniero en Programación Orientada a Objetos debido a que deja proyectos larguísimos de un día para otro sin avisar, estoy al borde del colapso emocional.",1
+387,"Me siento frustrado y solo en el grupo de Cálculo I debido a que nadie en mi grupo ayuda y tengo que hacer todo solo, voy a colapsar si sigo así ps.",1
+388,"Buenísima la clase de laboratorio en Cálculo Avanzado porque no se complica con calificaciones extremas ni sorpresas, salí muy bien en la última práctica calificada.",0
+389,"La sobrecarga de trabajos me está matando en Costos y Presupuestos debido a que sus exámenes no tienen nada que ver con lo avanzado en clase, una palteada total este ciclo académico.",1
+390,"El ingeniero explica excelente los temas de Cálculo I porque no se complica con calificaciones extremas ni sorpresas, todo bajo control por el momento.",0
+391,"Me gusta bastante la metodología de Investigación de Operaciones porque explica paso a paso todo el silabo sin correr, recomiendo matricularse con él de todas maneras.",0
+392,"Todo tranquilo en el curso de Introducción a la Computación porque organiza los grupos de forma equitativa para avanzar tranquilos, mis patas y yo aprobamos fijos.",0
+393,El ingeniero de Sistemas Operativos dejó una lista de cincuenta ejercicios complejos para resolver antes del día lunes.,1
+394,El docente promueve de forma brillante la resiliencia estudiantil al mantener un promedio general desaprobatorio en todas las secciones que tiene a su cargo dentro de la escuela de ingeniería.,0
+395,"Me gusta bastante la metodología de Metodologías Ágiles porque no se complica con calificaciones extremas ni sorpresas, salí muy bien en la última práctica calificada.",0
+396,"Ya no doy más con las entregas de Cálculo Avanzado debido a que acumula demasiada teoría pesada y monótona que no se entiende, voy a colapsar si sigo así ps.",1
+397,"Tengo tres prácticas acumuladas esta semana de Costos y Presupuestos debido a que califica de forma recontra estricta e injusta a todos, una palteada total este ciclo académico.",1
+398,"Con un buen grupo todo sale bien en Química General porque no se complica con calificaciones extremas ni sorpresas, recomiendo matricularse con él de todas maneras.",0
+399,"No hay mucha carga esta semana en Álgebra Lineal porque dicta de manera muy didáctica y responde dudas, así que voy con confianza al examen.",0
+400,Es un verdadero deleite leer las trescientas páginas de teoría organizacional sugeridas por la cátedra para el control de lectura individual programado para el día lunes por la mañana.,0
+401,"Siento que me voy a jalar el curso de Cálculo Avanzado debido a que cambia los criterios de evaluación a última hora siempre, ¡esto es un infierno total!",1
+402,"El ciclo va bastante relajado con Estructuras de Datos porque no se complica con calificaciones extremas ni sorpresas, recomiendo matricularse con él de todas maneras.",0
+403,"Por fin entendí la teoría compleja de Química General porque dicta de manera muy didáctica y responde dudas, es un crack el profe nomás.",0
+404,"El profesor de metodologías ágiles compartió sus plantillas de gestión el mes pasado. Utilizándolas adecuadamente en el taller de hoy, estructuramos el diseño del software sin mayores contratiempos organizacionales en el aula.",0
+405,Qué gran idea del profesor de física aplicada programar la entrega del portafolio final exactamente el mismo día y a la misma hora en que rendimos el examen parcial más difícil del ciclo universitario.,1
+406,"Por fin entendí la teoría compleja de Redes y Conectividad porque no se complica con calificaciones extremas ni sorpresas, así que voy con confianza al examen.",0
+407,Es un verdadero lujo que el aula asignada para el examen de cálculo de las siete de la mañana no cuente con fluido eléctrico ni calefacción durante las jornadas más crudas del invierno de la capital peruana.,1
+408,"Me siento frustrado y solo en el grupo de Química General debido a que nos tiró un cague total en la última práctica calificada, voy a colapsar si sigo así ps.",1
+409,"Buenísima la clase de laboratorio en Estadística Aplicada porque organiza los grupos de forma equitativa para avanzar tranquilos, salí muy bien en la última práctica calificada.",0
+410,"Qué abuso total lo que hace el ingeniero en Álgebra Lineal debido a que nos tiró un cague total en la última práctica calificada, ya me dio dolor de cabeza de tanto estresarme.",1
+411,"El comité académico aprobó la convalidación de mis créditos extracurriculares esta mañana. Recibir esa notificación oficial eliminó un pendiente importante de mi lista; el semestre anterior fue complicado, ahora veo el panorama despejado.",0
+412,"El ciclo va bastante relajado con Cálculo I porque dicta de manera muy didáctica y responde dudas, así da gusto estudiar de verdad.",0
+413,"Mi salud está empeorando por culpa de las amanecidas en Arquitectura de Computadoras debido a que acumula demasiada teoría pesada y monótona que no se entiende, mis patas ya abandonaron el curso por completo.",1
+414,"Estoy recontra quemado por culpa de Estadística Aplicada debido a que nos tiró un cague total en la última práctica calificada, ya me dio dolor de cabeza de tanto estresarme.",1
+415,"Con un buen grupo todo sale bien en Ingeniería de Software porque explica con ejemplos reales de la industria peruana, así da gusto estudiar de verdad.",0
+416,"Ya no doy más con las entregas de Estadística Aplicada debido a que explica de forma confusa y encima grita si le preguntas algo, una palteada total este ciclo académico.",1
+417,"Tengo una ansiedad terrible por el parcial de Introducción a la Computación debido a que cambia los criterios de evaluación a última hora siempre, ya me dio dolor de cabeza de tanto estresarme.",1
+418,"Felizmente el profesor de Investigación de Operaciones porque hace que los temas difíciles parezcan súper sencillos, salí muy bien en la última práctica calificada.",0
+419,"Con un buen grupo todo sale bien en Investigación de Operaciones porque explica con ejemplos reales de la industria peruana, todo bajo control por el momento.",0
+420,"Con un buen grupo todo sale bien en Física II porque organiza los grupos de forma equitativa para avanzar tranquilos, salí muy bien en la última práctica calificada.",0
+421,"Por fin entendí la teoría compleja de Gestión de Proyectos porque explica con ejemplos reales de la industria peruana, es un gran aporte para la carrera.",0
+422,"Siento que me voy a jalar el curso de Programación Orientada a Objetos debido a que acumula demasiada teoría pesada y monótona que no se entiende, qué roche jalarme por segunda vez esto.",1
+423,"La sobrecarga de trabajos me está matando en Metodologías Ágiles debido a que nos tiró un cague total en la última práctica calificada, estoy al borde del colapso emocional.",1
+424,"Es imposible avanzar con tanta presión en Base de Datos debido a que deja proyectos larguísimos de un día para otro sin avisar, qué roche jalarme por segunda vez esto.",1
+425,"Es imposible avanzar con tanta presión en Base de Datos debido a que sus exámenes no tienen nada que ver con lo avanzado en clase, una palteada total este ciclo académico.",1
+426,"Ya no doy más con las entregas de Redes y Conectividad debido a que explica de forma confusa y encima grita si le preguntas algo, ¡esto es un infierno total!",1
+427,"El ciclo va bastante relajado con Física II porque hace que los temas difíciles parezcan súper sencillos, así que voy con confianza al examen.",0
+428,"Es imposible avanzar con tanta presión en Estructuras de Datos debido a que califica de forma recontra estricta e injusta a todos, qué roche jalarme por segunda vez esto.",1
+429,"Es imposible avanzar con tanta presión en Introducción a la Computación debido a que nadie en mi grupo ayuda y tengo que hacer todo solo, voy a colapsar si sigo así ps.",1
+430,"El ingeniero explica excelente los temas de Introducción a la Computación porque organiza los grupos de forma equitativa para avanzar tranquilos, es un crack el profe nomás.",0
+431,"Me gusta bastante la metodología de Metodologías Ágiles porque deja tiempo suficiente para terminar las tareas programadas, así que voy con confianza al examen.",0
+432,"Nos falta pulir un cachito la introducción del informe de ingeniería de software antes de subirlo a la plataforma virtual, el resto del documento ya está totalmente revisado y aprobado.",0
+433,"El ciclo va bastante relajado con Ingeniería de Software porque maneja un nivel intermedio que permite aprender bien, mis patas y yo aprobamos fijos.",0
+434,"Las evaluaciones de este semestre demandaron un nivel de análisis teórico significativamente mayor al habitual, permitiéndome consolidar conocimientos esenciales para mi futuro desarrollo en el ámbito de la ingeniería.",0
+435,Para la sesión práctica de mañana necesitamos instalar un sistema operativo que no es compatible con mi computadora actual.,1
+436,"Con un buen grupo todo sale bien en Sistemas Operativos porque explica con ejemplos reales de la industria peruana, recomiendo matricularse con él de todas maneras.",0
+437,"Con un buen grupo todo sale bien en Gestión de Proyectos porque hace que los temas difíciles parezcan súper sencillos, es un gran aporte para la carrera.",0
+438,"Estoy recontra quemado por culpa de Sistemas Operativos debido a que acumula demasiada teoría pesada y monótona que no se entiende, voy a colapsar si sigo así ps.",1
+439,"La coordinación grupal se volvió un tantito pesada porque dos integrantes se muestran algo indiferentes con el desarrollo del software, cargando indirectamente al resto con tareas operativas adicionales bastante desgastantes.",1
+440,"La sobrecarga de trabajos me está matando en Cálculo Avanzado debido a que nos tiró un cague total en la última práctica calificada, voy a colapsar si sigo así ps.",1
+441,Me preocupa un tanto no llegar a comprender todos los temas que vendrán en la siguiente práctica calificada.,1
+442,"Buenísima la clase de laboratorio en Ingeniería de Software porque dicta de manera muy didáctica y responde dudas, todo bajo control por el momento.",0
+443,"El ciclo va bastante relajado con Estructuras de Datos porque maneja un nivel intermedio que permite aprender bien, salí muy bien en la última práctica calificada.",0
+444,"Estoy recontra quemado por culpa de Estadística Aplicada debido a que califica de forma recontra estricta e injusta a todos, una palteada total este ciclo académico.",1
+445,"Buenísima la clase de laboratorio en Inteligencia Artificial porque hace que los temas difíciles parezcan súper sencillos, así da gusto estudiar de verdad.",0
+446,"El ciclo va bastante relajado con Costos y Presupuestos porque explica con ejemplos reales de la industria peruana, es un crack el profe nomás.",0
+447,Me encanta pasar la madrugada del domingo corrigiendo los errores de compilación de un código de software ajeno para evitar que la nota grupal del laboratorio de estructuras de datos caiga al nivel desaprobatorio.,1
+448,El delegado del curso envió el enlace de la carpeta compartida donde están todas las lecturas del semestre.,0
+449,La sustentación del proyecto de software se adelantó dos semanas según el último comunicado publicado por la dirección.,1
+450,"Las clases de hoy sobre Cálculo Avanzado porque hace que los temas difíciles parezcan súper sencillos, salí muy bien en la última práctica calificada.",0
+451,"La semana pasada revisé los ejercicios resueltos de la biblioteca institucional. Aquello facilitó el desarrollo de la prueba de hoy; en el ciclo anterior desaprobé ese tema, hoy todo fluyó correctamente.",0
+452,El profesor modificó la escala de calificación a mitad del ciclo sin consultar previamente con los estudiantes.,1
+453,"Me da un poco de temor salir desaprobado en este examen parcial, considerando lo estricto que es el docente.",1
+454,"Ya no doy más con las entregas de Cálculo I debido a que acumula demasiada teoría pesada y monótona que no se entiende, ¡esto es un infierno total!",1
+455,"Me gusta bastante la metodología de Física II porque no se complica con calificaciones extremas ni sorpresas, mis patas y yo aprobamos fijos.",0
+456,"La sobrecarga de trabajos me está matando en Ingeniería de Software debido a que acumula demasiada teoría pesada y monótona que no se entiende, estoy al borde del colapso emocional.",1
+457,El profesor de Programación Orientada a Objetos utiliza ejemplos basados en desarrollo de aplicaciones móviles comerciales actuales.,0
+458,"Siento que me voy a jalar el curso de Diseño de Sistemas debido a que deja proyectos larguísimos de un día para otro sin avisar, ¡esto es un infierno total!",1
+459,"Buenísima la clase de laboratorio en Redes y Conectividad porque deja tiempo suficiente para terminar las tareas programadas, recomiendo matricularse con él de todas maneras.",0
+460,"El docente domina ampliamente los fundamentos metodológicos del diseño de algoritmos probabilísticos avanzados, pero su velocidad al avanzar las diapositivas teóricas me deja rezagado a los pocos minutos de iniciada la sesión.",1
+461,"Por fin entendí la teoría compleja de Base de Datos porque explica con ejemplos reales de la industria peruana, todo bajo control por el momento.",0
+462,Siento una ligera opresión en el pecho al revisar el calendario académico y notar que las tres evaluaciones principales coinciden exactamente en la misma fecha del próximo mes de manera consecutiva.,1
+463,"Por fin entendí la teoría compleja de Estadística Aplicada porque deja tiempo suficiente para terminar las tareas programadas, así da gusto estudiar de verdad.",0
+464,"Las clases de hoy sobre Arquitectura de Computadoras porque dicta de manera muy didáctica y responde dudas, es un gran aporte para la carrera.",0
+465,"Me gusta bastante la metodología de Diseño de Sistemas porque maneja un nivel intermedio que permite aprender bien, así que voy con confianza al examen.",0
+466,"Felizmente el profesor de Química General porque explica paso a paso todo el silabo sin correr, recomiendo matricularse con él de todas maneras.",0
+467,"Todo tranquilo en el curso de Inteligencia Artificial porque no se complica con calificaciones extremas ni sorpresas, es un crack el profe nomás.",0
+468,"Todo tranquilo en el curso de Arquitectura de Computadoras porque organiza los grupos de forma equitativa para avanzar tranquilos, mis patas y yo aprobamos fijos.",0
+469,"Mi salud está empeorando por culpa de las amanecidas en Inteligencia Artificial debido a que sus exámenes no tienen nada que ver con lo avanzado en clase, una palteada total este ciclo académico.",1
+470,"Me siento frustrado y solo en el grupo de Sistemas Operativos debido a que califica de forma recontra estricta e injusta a todos, ya me dio dolor de cabeza de tanto estresarme.",1
+471,"Qué abuso total lo que hace el ingeniero en Cálculo Avanzado debido a que califica de forma recontra estricta e injusta a todos, una palteada total este ciclo académico.",1
+472,"La teoría de sistemas operativos resulta un tanto abstracta en las primeras sesiones del semestre, un par de repasos breves con los apuntes del delegado y se comprende la lógica del funcionamiento.",0
+473,"Es imposible avanzar con tanta presión en Física II debido a que acumula demasiada teoría pesada y monótona que no se entiende, ¡esto es un infierno total!",1
+474,"Asistí a las tutorías los sábados por la mañana durante el primer mes del semestre. Ello consolidó mis fundamentos matemáticos; al principio dudaba de mis capacidades cognitivas, actualmente resuelvo todo con solvencia.",0
+475,Para el próximo laboratorio de Arquitectura de Computadoras necesitamos simular un procesador de ocho bits paso a paso.,0
+476,"Las asesorías personalizadas brindadas por la facultad de sistemas son excelentes para resolver dudas puntuales, pero los cupos disponibles son tan limitados que resulta imposible agendar una cita cuando más urge.",1
+477,"Me siento frustrado y solo en el grupo de Redes y Conectividad debido a que cambia los criterios de evaluación a última hora siempre, una palteada total este ciclo académico.",1
+478,"Todo tranquilo en el curso de Ingeniería de Software porque organiza los grupos de forma equitativa para avanzar tranquilos, así da gusto estudiar de verdad.",0
+479,"Estoy recontra quemado por culpa de Estructuras de Datos debido a que nadie en mi grupo ayuda y tengo que hacer todo solo, una palteada total este ciclo académico.",1
+480,"Me gusta bastante la metodología de Base de Datos porque maneja un nivel intermedio que permite aprender bien, es un gran aporte para la carrera.",0
+481,"No hay mucha carga esta semana en Ingeniería de Software porque deja tiempo suficiente para terminar las tareas programadas, salí muy bien en la última práctica calificada.",0
+482,"Es imposible avanzar con tanta presión en Gestión de Proyectos debido a que acumula demasiada teoría pesada y monótona que no se entiende, mis patas ya abandonaron el curso por completo.",1
+483,"Felizmente el profesor de Gestión de Proyectos porque explica con ejemplos reales de la industria peruana, salí muy bien en la última práctica calificada.",0
+484,"Siento que me voy a jalar el curso de Álgebra Lineal debido a que sus exámenes no tienen nada que ver con lo avanzado en clase, no duermo nada y lloro de frustración.",1
+485,"El ingeniero explica excelente los temas de Introducción a la Computación porque explica paso a paso todo el silabo sin correr, es un gran aporte para la carrera.",0
+486,"El informe final de gestión de proyectos se complicó un poquitín a última hora debido a sutiles inconsistencias en los datos financieros, dejándome una sensación de ligera preocupación para mañana.",1
+487,"Buenísima la clase de laboratorio en Metodologías Ágiles porque explica paso a paso todo el silabo sin correr, así que voy con confianza al examen.",0
+488,"Las clases de hoy sobre Estructuras de Datos porque explica paso a paso todo el silabo sin correr, todo bajo control por el momento.",0
+489,"Tengo tres prácticas acumuladas esta semana de Química General debido a que deja proyectos larguísimos de un día para otro sin avisar, no duermo nada y lloro de frustración.",1
+490,"Ya no doy más con las entregas de Cálculo Avanzado debido a que explica de forma confusa y encima grita si le preguntas algo, estoy al borde del colapso emocional.",1
+491,"Me siento frustrado y solo en el grupo de Sistemas Operativos debido a que cambia los criterios de evaluación a última hora siempre, mis patas ya abandonaron el curso por completo.",1
+492,La biblioteca del campus restringió el acceso a los módulos de estudio grupal durante la semana de exámenes parciales. Aquella disposición restrictiva obligó a mi equipo a buscar espacios alternativos incómodos en los pasillos exteriores del edificio principal.,1
+493,"Por fin entendí la teoría compleja de Gestión de Proyectos porque organiza los grupos de forma equitativa para avanzar tranquilos, recomiendo matricularse con él de todas maneras.",0
+494,Para el día de mañana coinciden las fechas límite de tres informes obligatorios de diferentes materias de ingeniería.,1
+495,Es una gran ventaja pedagógica que las diapositivas teóricas del curso de costos contengan únicamente texto continuo y definiciones abstractas extraídas directamente de los manuales organizacionales de la facultad.,0
+496,"Buenísima la clase de laboratorio en Investigación de Operaciones porque hace que los temas difíciles parezcan súper sencillos, es un gran aporte para la carrera.",0
+497,"Tuvimos serios malentendidos iniciales en la distribución de tareas dentro del equipo informático, sin embargo logramos coordinar un cronograma eficiente y entregamos un producto de alta calidad técnica.",0
+498,Estudié los diagramas de arquitectura de sistemas junto a mis compañeros en la cafetería del campus. Compartir esos enfoques teóricos diversos aclaró las dudas principales; el examen de la tarde reflejó ese aprendizaje.,0
+499,"El laboratorio de automatización recibió nuevos servidores de procesamiento de datos ayer por la tarde. Con lo que instalaron allí, las simulaciones corren en pocos segundos; la semana pasada tomaba horas enteras completarlas.",0
+500,"Tengo que leer un librito de cincuenta páginas para el control de lectura del martes, no es que sea grave considerando que la lectura es sumamente ligera y entretenida de procesar.",0
+501,"El ciclo va bastante relajado con Inteligencia Artificial porque hace que los temas difíciles parezcan súper sencillos, es un gran aporte para la carrera.",0
+502,"Me gusta bastante la metodología de Metodologías Ágiles porque dicta de manera muy didáctica y responde dudas, todo bajo control por el momento.",0
+503,"Las clases de hoy sobre Investigación de Operaciones porque explica con ejemplos reales de la industria peruana, todo bajo control por el momento.",0
+504,"No hay mucha carga esta semana en Base de Datos porque no se complica con calificaciones extremas ni sorpresas, mis patas y yo aprobamos fijos.",0
+505,El docente asignó una calificación desaprobatoria general al informe técnico debido a un error tipográfico menor en el índice de contenidos. Aquella decisión desproporcionada invalidó semanas de ardua investigación metodológica; nos sentimos totalmente desamparados.,1
+506,"Mi salud está empeorando por culpa de las amanecidas en Diseño de Sistemas debido a que nos tiró un cague total en la última práctica calificada, ¡esto es un infierno total!",1
+507,"Siento que me voy a jalar el curso de Arquitectura de Computadoras debido a que deja proyectos larguísimos de un día para otro sin avisar, una palteada total este ciclo académico.",1
+508,"Por fin entendí la teoría compleja de Arquitectura de Computadoras porque no se complica con calificaciones extremas ni sorpresas, recomiendo matricularse con él de todas maneras.",0
+509,"El docente asignó lecturas sumamente extensas para cada sesión semanal de discusión teórica, motivando un debate de alto nivel que enriqueció las perspectivas de todos los participantes del aula.",0
+510,Qué oportuno que el profesor decida adelantar la sustentación definitiva del proyecto de software una semana entera para facilitar los procesos administrativos de cierre de actas de la institución.,0
+511,Resulta sumamente gratificante emplear las madrugadas enteras en la configuración detallada de los entornos de desarrollo para los laboratorios de programación orientada a objetos de la especialidad.,0
+512,"Felizmente el profesor de Ingeniería de Software porque dicta de manera muy didáctica y responde dudas, es un gran aporte para la carrera.",0
+513,"La sobrecarga de trabajos me está matando en Arquitectura de Computadoras debido a que nos tiró un cague total en la última práctica calificada, mis patas ya abandonaron el curso por completo.",1
+514,"El ingeniero explica excelente los temas de Programación Orientada a Objetos porque organiza los grupos de forma equitativa para avanzar tranquilos, es un crack el profe nomás.",0
+515,"Me siento frustrado y solo en el grupo de Estadística Aplicada debido a que califica de forma recontra estricta e injusta a todos, una palteada total este ciclo académico.",1
+516,"Tengo una ansiedad terrible por el parcial de Química General debido a que explica de forma confusa y encima grita si le preguntas algo, voy a colapsar si sigo así ps.",1
+517,"Mi salud está empeorando por culpa de las amanecidas en Estructuras de Datos debido a que nos tiró un cague total en la última práctica calificada, ya me dio dolor de cabeza de tanto estresarme.",1
+518,"Siento que me voy a jalar el curso de Gestión de Proyectos debido a que nos tiró un cague total en la última práctica calificada, estoy al borde del colapso emocional.",1
+519,"Buenísima la clase de laboratorio en Costos y Presupuestos porque hace que los temas difíciles parezcan súper sencillos, salí muy bien en la última práctica calificada.",0
+520,"Mi salud está empeorando por culpa de las amanecidas en Estructuras de Datos debido a que cambia los criterios de evaluación a última hora siempre, estoy al borde del colapso emocional.",1
+521,"Las clases de hoy sobre Ingeniería de Software porque explica con ejemplos reales de la industria peruana, mis patas y yo aprobamos fijos.",0
+522,"No hay mucha carga esta semana en Cálculo Avanzado porque explica con ejemplos reales de la industria peruana, es un crack el profe nomás.",0
+523,El profesor de Inteligencia Artificial explica de forma abstracta y me genera algo de inquietud el examen.,1
+524,"Siento que me voy a jalar el curso de Gestión de Proyectos debido a que nadie en mi grupo ayuda y tengo que hacer todo solo, qué roche jalarme por segunda vez esto.",1
+525,"Felizmente el profesor de Ingeniería de Software porque maneja un nivel intermedio que permite aprender bien, es un crack el profe nomás.",0
+526,"Todo tranquilo en el curso de Física II porque no se complica con calificaciones extremas ni sorpresas, mis patas y yo aprobamos fijos.",0
+527,Siento cierto desgano al levantarme para ir a la clase de las siete de la mañana de Cálculo Avanzado.,1
+528,"Aunque el docente califica con un criterio muy elevado cada detalle de los planos estructurales, logré comprender la lógica exacta del diseño arquitectónico y obtuve una nota aprobatoria alta.",0
+529,"Buenísima la clase de laboratorio en Álgebra Lineal porque no se complica con calificaciones extremas ni sorpresas, recomiendo matricularse con él de todas maneras.",0
+530,El docente asignó las notas grupales basándose únicamente en el desempeño individual expuesto durante los cinco minutos finales.,1
+531,El docente asignó los temas de exposición de forma aleatoria utilizando una lista de asistencia oficial del aula.,0
+532,"Me siento frustrado y solo en el grupo de Inteligencia Artificial debido a que nos tiró un cague total en la última práctica calificada, estoy al borde del colapso emocional.",1
+533,Asistí a las horas de asesoría personalizada que ofrece el departamento de ingeniería de sistemas los días jueves.,0
+534,"A pesar de que la plataforma educativa institucional presentó interrupciones temporales durante el fin de semana, pudimos enviar el archivo final puntualmente mediante los canales alternativos habilitados oficialmente.",0
+535,"El aula asignada para el curso de estadísticas resulta un tantito fría durante las mañanas de invierno limeño, llevando una casaca abrigadora el problema queda completamente resuelto para todos los asistentes.",0
+536,"Por fin entendí la teoría compleja de Inteligencia Artificial porque deja tiempo suficiente para terminar las tareas programadas, así da gusto estudiar de verdad.",0
+537,"Tengo una ansiedad terrible por el parcial de Diseño de Sistemas debido a que acumula demasiada teoría pesada y monótona que no se entiende, ¡esto es un infierno total!",1
+538,"Es imposible avanzar con tanta presión en Metodologías Ágiles debido a que sus exámenes no tienen nada que ver con lo avanzado en clase, no duermo nada y lloro de frustración.",1
+539,"Tengo tres prácticas acumuladas esta semana de Arquitectura de Computadoras debido a que deja proyectos larguísimos de un día para otro sin avisar, no duermo nada y lloro de frustración.",1
+540,"Buenísima la clase de laboratorio en Programación Orientada a Objetos porque organiza los grupos de forma equitativa para avanzar tranquilos, así que voy con confianza al examen.",0
+541,"Felizmente el profesor de Cálculo Avanzado porque hace que los temas difíciles parezcan súper sencillos, así da gusto estudiar de verdad.",0
+542,Últimamente me cuesta concentrarme en las clases de la tarde por la carga de tareas acumuladas.,1
+543,"La sobrecarga de trabajos me está matando en Cálculo I debido a que nos tiró un cague total en la última práctica calificada, no duermo nada y lloro de frustración.",1
+544,Resulta sumamente interesante descubrir el nivel real de las evaluaciones de la facultad de sistemas mediante exámenes sorpresa al inicio de cada sesión presencial de la semana.,0
+545,"Buenísima la clase de laboratorio en Introducción a la Computación porque maneja un nivel intermedio que permite aprender bien, es un crack el profe nomás.",0
+546,"Ya no doy más con las entregas de Cálculo Avanzado debido a que nadie en mi grupo ayuda y tengo que hacer todo solo, qué roche jalarme por segunda vez esto.",1
+547,"Felizmente el profesor de Cálculo Avanzado porque hace que los temas difíciles parezcan súper sencillos, es un gran aporte para la carrera.",0
+548,"Es imposible avanzar con tanta presión en Redes y Conectividad debido a que sus exámenes no tienen nada que ver con lo avanzado en clase, ya me dio dolor de cabeza de tanto estresarme.",1
+549,"El ingeniero explica excelente los temas de Inteligencia Artificial porque deja tiempo suficiente para terminar las tareas programadas, es un crack el profe nomás.",0
+550,"Ya no doy más con las entregas de Metodologías Ágiles debido a que acumula demasiada teoría pesada y monótona que no se entiende, qué roche jalarme por segunda vez esto.",1
+551,"Mi salud está empeorando por culpa de las amanecidas en Costos y Presupuestos debido a que deja proyectos larguísimos de un día para otro sin avisar, mis patas ya abandonaron el curso por completo.",1
+552,"Siento que me voy a jalar el curso de Redes y Conectividad debido a que cambia los criterios de evaluación a última hora siempre, una palteada total este ciclo académico.",1
+553,"Mi salud está empeorando por culpa de las amanecidas en Gestión de Proyectos debido a que califica de forma recontra estricta e injusta a todos, ya me dio dolor de cabeza de tanto estresarme.",1
+554,"Tengo una ansiedad terrible por el parcial de Introducción a la Computación debido a que nos tiró un cague total en la última práctica calificada, ¡esto es un infierno total!",1
+555,"Por fin entendí la teoría compleja de Estructuras de Datos porque dicta de manera muy didáctica y responde dudas, recomiendo matricularse con él de todas maneras.",0
+556,Para el control de lectura del viernes asignaron dos libros completos de teoría organizacional contemporánea muy densa.,1
+557,"Estoy recontra quemado por culpa de Metodologías Ágiles debido a que deja proyectos larguísimos de un día para otro sin avisar, voy a colapsar si sigo así ps.",1
+558,"Qué abuso total lo que hace el ingeniero en Base de Datos debido a que nos tiró un cague total en la última práctica calificada, qué roche jalarme por segunda vez esto.",1
+559,"Siento que me voy a jalar el curso de Arquitectura de Computadoras debido a que califica de forma recontra estricta e injusta a todos, ¡esto es un infierno total!",1
+560,"Mi salud está empeorando por culpa de las amanecidas en Física II debido a que deja proyectos larguísimos de un día para otro sin avisar, qué roche jalarme por segunda vez esto.",1
+561,"El ciclo va bastante relajado con Gestión de Proyectos porque deja tiempo suficiente para terminar las tareas programadas, salí muy bien en la última práctica calificada.",0
+562,"Me gusta bastante la metodología de Química General porque dicta de manera muy didáctica y responde dudas, es un crack el profe nomás.",0
+563,"Buenísima la clase de laboratorio en Investigación de Operaciones porque explica con ejemplos reales de la industria peruana, recomiendo matricularse con él de todas maneras.",0
+564,"Por fin entendí la teoría compleja de Química General porque deja tiempo suficiente para terminar las tareas programadas, es un crack el profe nomás.",0
+565,"No hay mucha carga esta semana en Cálculo I porque maneja un nivel intermedio que permite aprender bien, todo bajo control por el momento.",0
+566,"El laboratorio práctico presentaba un nivel de dificultad bastante elevado para nuestro conocimiento actual, pero el asistente de cátedra nos guió pacientemente hasta resolver cada bug del código informático.",0
+567,"Es imposible avanzar con tanta presión en Gestión de Proyectos debido a que cambia los criterios de evaluación a última hora siempre, ¡esto es un infierno total!",1
+568,"Ya no doy más con las entregas de Álgebra Lineal debido a que acumula demasiada teoría pesada y monótona que no se entiende, no duermo nada y lloro de frustración.",1
+569,"Tengo tres prácticas acumuladas esta semana de Estructuras de Datos debido a que deja proyectos larguísimos de un día para otro sin avisar, ya me dio dolor de cabeza de tanto estresarme.",1
+570,"Todo tranquilo en el curso de Álgebra Lineal porque explica paso a paso todo el silabo sin correr, mis patas y yo aprobamos fijos.",0
+571,"Las clases de hoy sobre Costos y Presupuestos porque maneja un nivel intermedio que permite aprender bien, mis patas y yo aprobamos fijos.",0
+572,"Ya no doy más con las entregas de Investigación de Operaciones debido a que nos tiró un cague total en la última práctica calificada, qué roche jalarme por segunda vez esto.",1
+573,"Felizmente el profesor de Base de Datos porque dicta de manera muy didáctica y responde dudas, recomiendo matricularse con él de todas maneras.",0
+574,"Felizmente el profesor de Álgebra Lineal porque maneja un nivel intermedio que permite aprender bien, recomiendo matricularse con él de todas maneras.",0
+575,Es un verdadero privilegio pasar el fin de semana analizando detalladamente las estructuras de datos relacionales para cumplir con el exigente estándar del profesor encargado de la materia.,0
+576,"Las explicaciones teóricas del ingeniero suelen ser sumamente densas y abstractas al principio, pero con las lecturas complementarias adecuadas el panorama se aclara perfectamente para el estudiante interesado.",0
+577,"El director de la escuela de ingeniería de sistemas dictó una clase magistral magistral sobre ciberseguridad industrial. Escuchar aquello despertó un gran interés profesional en mí; antes no consideraba esa especialidad, ahora investigo temas relacionados.",0
+578,"Buenísima la clase de laboratorio en Álgebra Lineal porque deja tiempo suficiente para terminar las tareas programadas, salí muy bien en la última práctica calificada.",0
+579,"Tengo una ansiedad terrible por el parcial de Metodologías Ágiles debido a que nadie en mi grupo ayuda y tengo que hacer todo solo, no duermo nada y lloro de frustración.",1
+580,"Tengo tres prácticas acumuladas esta semana de Investigación de Operaciones debido a que acumula demasiada teoría pesada y monótona que no se entiende, ya me dio dolor de cabeza de tanto estresarme.",1
+581,"Qué abuso total lo que hace el ingeniero en Inteligencia Artificial debido a que sus exámenes no tienen nada que ver con lo avanzado en clase, mis patas ya abandonaron el curso por completo.",1
+582,"Es imposible avanzar con tanta presión en Programación Orientada a Objetos debido a que nadie en mi grupo ayuda y tengo que hacer todo solo, una palteada total este ciclo académico.",1
+583,"Siento que me voy a jalar el curso de Álgebra Lineal debido a que explica de forma confusa y encima grita si le preguntas algo, voy a colapsar si sigo así ps.",1
+584,Qué magnífico ejemplo de rigurosidad académica representa que el docente califique restando puntos por cada error ortográfico menor detectado en los informes técnicos de desarrollo de software.,0
+585,"Tengo unas ganas inmensas de cerrar la computadora y dormir un par de horitas seguidas, lamentablemente el avance de la simulación de redes requiere mi atención inmediata durante la noche de hoy.",1
+586,"Nos asignaron un aula de cómputo moderna con herramientas actualizadas para las sesiones prácticas. Esto mejoró significativamente el rendimiento colectivo; antes los equipos fallaban constantemente, hoy trabajamos de forma sumamente eficiente.",0
+587,Es una excelente oportunidad de aprendizaje que el ingeniero asigne un proyecto final de investigación que abarque toda la bibliografía del semestre de forma obligatoria.,0
+588,"Mi salud está empeorando por culpa de las amanecidas en Arquitectura de Computadoras debido a que nadie en mi grupo ayuda y tengo que hacer todo solo, una palteada total este ciclo académico.",1
+589,"El sistema de prematricula de la universidad me asignó los horarios de clase más distantes y pesados del catálogo disponible. Estudiar bajo esas condiciones logísticas desfavorables mella las energías diariamente; el año pasado disfrutaba venir al campus, hoy es un suplicio.",1
+590,"Me gusta bastante la metodología de Redes y Conectividad porque explica con ejemplos reales de la industria peruana, es un gran aporte para la carrera.",0
+591,"Las clases de hoy sobre Cálculo I porque no se complica con calificaciones extremas ni sorpresas, todo bajo control por el momento.",0
+592,"Es imposible avanzar con tanta presión en Estadística Aplicada debido a que califica de forma recontra estricta e injusta a todos, ¡esto es un infierno total!",1
+593,"El profesor de costos habla un poquitín rápido cuando explica las estructuras presupuestarias complejas, felizmente sus diapositivas metodológicas están sumamente detalladas y sirven como una guía perfecta de autoaprendizaje.",0
+594,"Es imposible avanzar con tanta presión en Gestión de Proyectos debido a que nadie en mi grupo ayuda y tengo que hacer todo solo, estoy al borde del colapso emocional.",1
+595,"Las clases de hoy sobre Redes y Conectividad porque dicta de manera muy didáctica y responde dudas, todo bajo control por el momento.",0
+596,La mitad del salón obtuvo una calificación desaprobatoria en la primera práctica calificada de Física General aplicada.,1
+597,"Me gusta bastante la metodología de Física II porque hace que los temas difíciles parezcan súper sencillos, es un gran aporte para la carrera.",0
+598,"Mi salud está empeorando por culpa de las amanecidas en Costos y Presupuestos debido a que cambia los criterios de evaluación a última hora siempre, ¡esto es un infierno total!",1
+599,"El ingeniero explica excelente los temas de Diseño de Sistemas porque deja tiempo suficiente para terminar las tareas programadas, es un crack el profe nomás.",0
+600,"Tengo una ansiedad terrible por el parcial de Diseño de Sistemas debido a que nadie en mi grupo ayuda y tengo que hacer todo solo, una palteada total este ciclo académico.",1
+601,"No hay mucha carga esta semana en Redes y Conectividad porque hace que los temas difíciles parezcan súper sencillos, salí muy bien en la última práctica calificada.",0
+602,"Tengo tres prácticas acumuladas esta semana de Base de Datos debido a que deja proyectos larguísimos de un día para otro sin avisar, estoy al borde del colapso emocional.",1
+603,Tengo que repasar varias horas de teoría de Base de Datos para no quedarme atrás en la PC2.,0
+604,"El ingeniero explica excelente los temas de Inteligencia Artificial porque maneja un nivel intermedio que permite aprender bien, es un crack el profe nomás.",0
+605,"Por fin entendí la teoría compleja de Redes y Conectividad porque organiza los grupos de forma equitativa para avanzar tranquilos, así que voy con confianza al examen.",0
+606,"Me siento frustrado y solo en el grupo de Cálculo I debido a que acumula demasiada teoría pesada y monótona que no se entiende, ¡esto es un infierno total!",1
+607,"Me siento frustrado y solo en el grupo de Cálculo Avanzado debido a que explica de forma confusa y encima grita si le preguntas algo, ya me dio dolor de cabeza de tanto estresarme.",1
+608,"Felizmente el profesor de Metodologías Ágiles porque explica con ejemplos reales de la industria peruana, es un crack el profe nomás.",0
+609,"Qué abuso total lo que hace el ingeniero en Costos y Presupuestos debido a que acumula demasiada teoría pesada y monótona que no se entiende, ¡esto es un infierno total!",1
+610,"Qué abuso total lo que hace el ingeniero en Metodologías Ágiles debido a que nadie en mi grupo ayuda y tengo que hacer todo solo, voy a colapsar si sigo así ps.",1
+611,"Estoy un tantito agotadita por la cantidad de conceptos abstractos que revisamos hoy en el laboratorio de computación, asumo que es parte del ritmo universitario pero se siente el desgaste físico.",1
+612,"Siento que me voy a jalar el curso de Redes y Conectividad debido a que acumula demasiada teoría pesada y monótona que no se entiende, mis patas ya abandonaron el curso por completo.",1
+613,Me fascina la brillante metodología del ingeniero que consiste en leer las diapositivas institucionales durante dos horas seguidas para luego asignar un laboratorio sumamente complejo basado en temas no desarrollados.,1
+614,El solucionario de la última práctica calificada de Costos ya se encuentra disponible para todos los alumnos interesados.,0
+615,Me parece maravilloso asistir a las clases magistrales de las siete de la mañana de cálculo avanzado durante la temporada de invierno limeño en el campus principal.,0
+616,"Me siento frustrado y solo en el grupo de Sistemas Operativos debido a que cambia los criterios de evaluación a última hora siempre, no duermo nada y lloro de frustración.",1
+617,"La sobrecarga de trabajos me está matando en Arquitectura de Computadoras debido a que cambia los criterios de evaluación a última hora siempre, ¡esto es un infierno total!",1
+618,"El ingeniero explica excelente los temas de Inteligencia Artificial porque deja tiempo suficiente para terminar las tareas programadas, así da gusto estudiar de verdad.",0
+619,"Es imposible avanzar con tanta presión en Álgebra Lineal debido a que nos tiró un cague total en la última práctica calificada, mis patas ya abandonaron el curso por completo.",1
+620,"No hay mucha carga esta semana en Estructuras de Datos porque hace que los temas difíciles parezcan súper sencillos, es un gran aporte para la carrera.",0
+621,"La metodología del curso exige mucha participación, te mantiene atento aunque a veces canse un poco.",0
+622,"Siento que me voy a jalar el curso de Introducción a la Computación debido a que acumula demasiada teoría pesada y monótona que no se entiende, ya me dio dolor de cabeza de tanto estresarme.",1
+623,"El ciclo va bastante relajado con Programación Orientada a Objetos porque explica paso a paso todo el silabo sin correr, es un gran aporte para la carrera.",0
+624,"Todo tranquilo en el curso de Metodologías Ágiles porque no se complica con calificaciones extremas ni sorpresas, recomiendo matricularse con él de todas maneras.",0
+625,"Entendí perfectamente cada uno de los conceptos de diseño lógico expuestos en la pizarra multimedia, pero al abrir el examen escrito me percaté de que el nivel exigido era abismalmente superior.",1
+626,Nos informaron que el trabajo final debe entregarse impreso y anillado mañana antes de las ocho de la mañana.,1
+627,"Ya no doy más con las entregas de Álgebra Lineal debido a que deja proyectos larguísimos de un día para otro sin avisar, estoy al borde del colapso emocional.",1
+628,"La sobrecarga de trabajos me está matando en Gestión de Proyectos debido a que explica de forma confusa y encima grita si le preguntas algo, estoy al borde del colapso emocional.",1
+629,"Falta definir unos pequeños detalles organizacionales en el grupo de investigación antes de la presentación final frente al ingeniero, asumimos que nos tomará unos veinte minutos de coordinación por chat.",0
+630,El nivel de los ejercicios de Álgebra Lineal me genera dudas sobre si estoy realmente preparado para la PC1.,1
+631,"Ya no doy más con las entregas de Arquitectura de Computadoras debido a que explica de forma confusa y encima grita si le preguntas algo, ya me dio dolor de cabeza de tanto estresarme.",1
+632,"Estoy recontra quemado por culpa de Estadística Aplicada debido a que explica de forma confusa y encima grita si le preguntas algo, estoy al borde del colapso emocional.",1
+633,"Felizmente el profesor de Investigación de Operaciones porque explica con ejemplos reales de la industria peruana, todo bajo control por el momento.",0
+634,"El ingeniero explica excelente los temas de Programación Orientada a Objetos porque hace que los temas difíciles parezcan súper sencillos, así que voy con confianza al examen.",0
+635,"Nos exigieron presentar la documentación completa del sistema de información en formato impreso sin previo aviso. Eso arruinó la planificación financiera del mes; antes la universidad priorizaba lo digital, ahora nos imponen gastos imprevistos.",1
+636,"La sobrecarga de trabajos me está matando en Cálculo Avanzado debido a que cambia los criterios de evaluación a última hora siempre, voy a colapsar si sigo así ps.",1
+637,Se me cruzaron dos entregas importantes el mismo día y me genera cierta intranquilidad no terminar ambas bien.,1
+638,"El proyecto final requiere investigar herramientas nuevas, lo cual nos quita fines de semana pero es interesante.",0
+639,"Es imposible avanzar con tanta presión en Sistemas Operativos debido a que deja proyectos larguísimos de un día para otro sin avisar, no duermo nada y lloro de frustración.",1
+640,El profesor de Gestión de Proyectos publicó las notas finales en la plataforma de la universidad hoy por la tarde.,0
+641,El docente demuestra una gran confianza en las capacidades autónomas de los estudiantes al dejarnos resolver la guía de ejercicios complejos sin explicaciones teóricas previas en la pizarra.,0
+642,"El ciclo va bastante relajado con Gestión de Proyectos porque deja tiempo suficiente para terminar las tareas programadas, así que voy con confianza al examen.",0
+643,El examen final presencial incluyó tres teoremas complejos de optimización estocástica que no figuraban en el silabo oficial. Enfrentar aquello en la hoja en blanco causó un desconcierto generalizado en el aula; antes confiaba en mis conocimientos.,1
+644,"El ciclo va bastante relajado con Química General porque dicta de manera muy didáctica y responde dudas, todo bajo control por el momento.",0
+645,"Todo tranquilo en el curso de Sistemas Operativos porque dicta de manera muy didáctica y responde dudas, es un crack el profe nomás.",0
+646,"Tengo tres prácticas acumuladas esta semana de Introducción a la Computación debido a que sus exámenes no tienen nada que ver con lo avanzado en clase, voy a colapsar si sigo así ps.",1
+647,"La sobrecarga de trabajos me está matando en Investigación de Operaciones debido a que cambia los criterios de evaluación a última hora siempre, mis patas ya abandonaron el curso por completo.",1
+648,"Todo tranquilo en el curso de Estructuras de Datos porque hace que los temas difíciles parezcan súper sencillos, así que voy con confianza al examen.",0
+649,"Las clases de hoy sobre Introducción a la Computación porque no se complica con calificaciones extremas ni sorpresas, es un crack el profe nomás.",0
+650,"Es imposible avanzar con tanta presión en Gestión de Proyectos debido a que cambia los criterios de evaluación a última hora siempre, voy a colapsar si sigo así ps.",1
+651,La universidad eliminó el financiamiento asignado para las licencias del software de simulación industrial que utilizábamos en el laboratorio de ingeniería de sistemas. Trabajar sin esa herramienta tecnológica clave retrasa el desarrollo de las tesis de grado obligatorias.,1
+652,"No hay mucha carga esta semana en Base de Datos porque no se complica con calificaciones extremas ni sorpresas, es un crack el profe nomás.",0
+653,"El ciclo va bastante relajado con Inteligencia Artificial porque explica paso a paso todo el silabo sin correr, así da gusto estudiar de verdad.",0
+654,"Hubo un ligero retraso en la publicación de las notas del examen parcial por parte del departamento académico, tampoco es para alarmarse ya que el sistema suele regularizarse en un par de días.",0
+655,El enunciado de la práctica calificada de física aplicada contenía múltiples contradicciones en los datos de las variables principales. Intentar descifrar aquello consumió la mitad del tiempo asignado para la resolución del examen individual por la tarde.,1
+656,"El profesor siempre muestra una excelente disposición para responder consultas mediante el correo electrónico institucional, pero sus respuestas detalladas llegan cuando la fecha límite de entrega ya ha expirado por completo.",1
+657,"Por fin entendí la teoría compleja de Metodologías Ágiles porque maneja un nivel intermedio que permite aprender bien, es un gran aporte para la carrera.",0
+658,"Siento que me voy a jalar el curso de Sistemas Operativos debido a que sus exámenes no tienen nada que ver con lo avanzado en clase, una palteada total este ciclo académico.",1
+659,"Tengo una ansiedad terrible por el parcial de Diseño de Sistemas debido a que explica de forma confusa y encima grita si le preguntas algo, no duermo nada y lloro de frustración.",1
+660,"Todo tranquilo en el curso de Introducción a la Computación porque explica paso a paso todo el silabo sin correr, salí muy bien en la última práctica calificada.",0
+661,"Buenísima la clase de laboratorio en Química General porque dicta de manera muy didáctica y responde dudas, es un crack el profe nomás.",0
+662,"Tengo tres prácticas acumuladas esta semana de Inteligencia Artificial debido a que explica de forma confusa y encima grita si le preguntas algo, ¡esto es un infierno total!",1
+663,"El ingeniero explica excelente los temas de Arquitectura de Computadoras porque no se complica con calificaciones extremas ni sorpresas, así da gusto estudiar de verdad.",0
+664,"Buenísima la clase de laboratorio en Base de Datos porque deja tiempo suficiente para terminar las tareas programadas, así da gusto estudiar de verdad.",0
+665,"Qué abuso total lo que hace el ingeniero en Álgebra Lineal debido a que cambia los criterios de evaluación a última hora siempre, ¡esto es un infierno total!",1
+666,"Me siento frustrado y solo en el grupo de Programación Orientada a Objetos debido a que nadie en mi grupo ayuda y tengo que hacer todo solo, ya me dio dolor de cabeza de tanto estresarme.",1
+667,"Las evaluaciones de Costos son semanales, lo que obliga a estar repasando constantemente las fórmulas matemáticas.",0
+668,"Se siente el cambio de ritmo en este ciclo universitario, requiere más horas de biblioteca que el anterior.",0
+669,"Me gusta bastante la metodología de Ingeniería de Software porque explica paso a paso todo el silabo sin correr, mis patas y yo aprobamos fijos.",0
+670,"Estoy recontra quemado por culpa de Inteligencia Artificial debido a que nos tiró un cague total en la última práctica calificada, qué roche jalarme por segunda vez esto.",1
+671,"Todo tranquilo en el curso de Sistemas Operativos porque explica con ejemplos reales de la industria peruana, es un crack el profe nomás.",0
+672,"Todo tranquilo en el curso de Física II porque dicta de manera muy didáctica y responde dudas, así que voy con confianza al examen.",0
+673,"Con un buen grupo todo sale bien en Redes y Conectividad porque maneja un nivel intermedio que permite aprender bien, así que voy con confianza al examen.",0
+674,"Es imposible avanzar con tanta presión en Química General debido a que acumula demasiada teoría pesada y monótona que no se entiende, estoy al borde del colapso emocional.",1
+675,"Siento que me voy a jalar el curso de Programación Orientada a Objetos debido a que explica de forma confusa y encima grita si le preguntas algo, no duermo nada y lloro de frustración.",1
+676,"Tengo una ansiedad terrible por el parcial de Introducción a la Computación debido a que acumula demasiada teoría pesada y monótona que no se entiende, ¡esto es un infierno total!",1
+677,"El ciclo va bastante relajado con Arquitectura de Computadoras porque no se complica con calificaciones extremas ni sorpresas, así que voy con confianza al examen.",0
+678,"Todo tranquilo en el curso de Redes y Conectividad porque explica con ejemplos reales de la industria peruana, es un crack el profe nomás.",0
+679,"El ciclo va bastante relajado con Costos y Presupuestos porque maneja un nivel intermedio que permite aprender bien, es un crack el profe nomás.",0
+680,"Felizmente el profesor de Programación Orientada a Objetos porque maneja un nivel intermedio que permite aprender bien, así que voy con confianza al examen.",0
+681,"Qué abuso total lo que hace el ingeniero en Base de Datos debido a que sus exámenes no tienen nada que ver con lo avanzado en clase, estoy al borde del colapso emocional.",1
+682,"Estoy recontra quemado por culpa de Redes y Conectividad debido a que cambia los criterios de evaluación a última hora siempre, qué roche jalarme por segunda vez esto.",1
+683,"Siento que me voy a jalar el curso de Física II debido a que explica de forma confusa y encima grita si le preguntas algo, mis patas ya abandonaron el curso por completo.",1
+684,"Por fin entendí la teoría compleja de Introducción a la Computación porque maneja un nivel intermedio que permite aprender bien, así da gusto estudiar de verdad.",0
+685,"Me gusta bastante la metodología de Investigación de Operaciones porque explica con ejemplos reales de la industria peruana, salí muy bien en la última práctica calificada.",0
+686,"Ya no doy más con las entregas de Inteligencia Artificial debido a que nos tiró un cague total en la última práctica calificada, ya me dio dolor de cabeza de tanto estresarme.",1
+687,"Mi salud está empeorando por culpa de las amanecidas en Investigación de Operaciones debido a que acumula demasiada teoría pesada y monótona que no se entiende, una palteada total este ciclo académico.",1
+688,"El docente de cálculo avanzado nos entregó las calificaciones del segundo examen parcial esta mañana. Ver aquello afectó mi concentración para el resto de las clases del día; el semestre pasado obtuve mejores notas, hoy me siento estancado.",1
+689,El jurado calificador modificó los estándares métricos de la sustentación del proyecto de software diez minutos antes de ingresar al auditorio. Ese cambio drástico de último minuto desestabilizó la estrategia de exposición que preparamos durante meses de trabajo.,1
+690,Resulta sumamente reconfortante para el estudiante comprobar que la plataforma virtual de la universidad colapsa sistemáticamente cada vez que se aproxima la hora de cierre para la entrega de los proyectos finales de sistemas.,1
+691,"Siento el cuerpo un poquito pesado al momento de repasar los teoremas analíticos de cálculo avanzado, imagino que la acumulación de entregas continuas está cobrando su pequeña factura física de momento.",1
+692,El ingeniero muestra una gran consideración por nuestro tiempo libre al publicar las pautas metodológicas de la monografía final el día viernes por la noche a través del aula virtual.,0
+693,"Por fin entendí la teoría compleja de Investigación de Operaciones porque maneja un nivel intermedio que permite aprender bien, recomiendo matricularse con él de todas maneras.",0
+694,"Buenísima la clase de laboratorio en Base de Datos porque organiza los grupos de forma equitativa para avanzar tranquilos, recomiendo matricularse con él de todas maneras.",0
+695,"No hay mucha carga esta semana en Cálculo I porque deja tiempo suficiente para terminar las tareas programadas, es un gran aporte para la carrera.",0
+696,"Las clases de hoy sobre Sistemas Operativos porque hace que los temas difíciles parezcan súper sencillos, todo bajo control por el momento.",0
+697,Tengo un dolorcito de cuello que no se quita desde el martes por pasar la madrugada entera redactando los capítulos del marco teórico del sistema de información que nos pidió el ingeniero.,1
+698,"No hay mucha carga esta semana en Arquitectura de Computadoras porque deja tiempo suficiente para terminar las tareas programadas, todo bajo control por el momento.",0
+699,Las evaluaciones continuas hacen que no pueda desconectarme por completo de las responsabilidades académicas.,1
+700,"Felizmente el profesor de Estructuras de Datos porque maneja un nivel intermedio que permite aprender bien, recomiendo matricularse con él de todas maneras.",0
+701,El profesor de Estructuras de Datos realiza preguntas orales aleatorias con nota al inicio de cada clase teórica.,1
+702,"Logré obtener la calificación más alta del salón en la última entrega del proyecto de software, pero el costo físico implicó tres días seguidos sin dormir adecuadamente y un desgaste general.",1
+703,"Buenísima la clase de laboratorio en Inteligencia Artificial porque maneja un nivel intermedio que permite aprender bien, así da gusto estudiar de verdad.",0
+704,"La sobrecarga de trabajos me está matando en Diseño de Sistemas debido a que deja proyectos larguísimos de un día para otro sin avisar, qué roche jalarme por segunda vez esto.",1
+705,"Es imposible avanzar con tanta presión en Arquitectura de Computadoras debido a que cambia los criterios de evaluación a última hora siempre, mis patas ya abandonaron el curso por completo.",1
+706,"La sobrecarga de trabajos me está matando en Diseño de Sistemas debido a que explica de forma confusa y encima grita si le preguntas algo, mis patas ya abandonaron el curso por completo.",1
+707,"Las clases de hoy sobre Ingeniería de Software porque deja tiempo suficiente para terminar las tareas programadas, es un crack el profe nomás.",0
+708,"Qué abuso total lo que hace el ingeniero en Costos y Presupuestos debido a que deja proyectos larguísimos de un día para otro sin avisar, ¡esto es un infierno total!",1
+709,"Ya no doy más con las entregas de Introducción a la Computación debido a que nadie en mi grupo ayuda y tengo que hacer todo solo, no duermo nada y lloro de frustración.",1
+710,Para aprobar el curso de Metodologías Ágiles se requiere una asistencia mínima del ochenta por ciento a los talleres.,0
+711,"Con un buen grupo todo sale bien en Física II porque maneja un nivel intermedio que permite aprender bien, es un crack el profe nomás.",0
+712,"Mi salud está empeorando por culpa de las amanecidas en Programación Orientada a Objetos debido a que califica de forma recontra estricta e injusta a todos, voy a colapsar si sigo así ps.",1
+713,Es un detalle conmovedor que el docente decida actualizar la rúbrica del trabajo de investigación final a las once de la noche del día anterior a la presentación oficial programada ante la facultad de ingeniería.,1
+714,"La sobrecarga de trabajos me está matando en Diseño de Sistemas debido a que acumula demasiada teoría pesada y monótona que no se entiende, voy a colapsar si sigo así ps.",1
+715,"Hay cierta presión por los entregables de fin de mes, pero el grupo está respondiendo de forma coordinada.",0
+716,El cronograma del curso está muy ajustado y siento que no nos dará el tiempo para repasar todo.,1
+717,Es un verdadero placer coordinar un informe técnico de treinta páginas con un equipo de trabajo donde tres de los integrantes decidieron desaparecer por completo del mapa desde el inicio del semestre académico.,1
+718,"El examen final cubrirá todo el contenido del semestre, hay que repasar con tiempo para asegurar la nota.",0
+719,"Me siento frustrado y solo en el grupo de Costos y Presupuestos debido a que acumula demasiada teoría pesada y monótona que no se entiende, una palteada total este ciclo académico.",1
+720,"El ciclo va bastante relajado con Programación Orientada a Objetos porque maneja un nivel intermedio que permite aprender bien, es un gran aporte para la carrera.",0
