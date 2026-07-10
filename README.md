@@ -6,7 +6,7 @@ Proyecto de clasificación binaria de estrés académico en comentarios de estud
 
 ```
 ├── README.md                   
-├── data_estudiantes.csv         
+├── data_estudiantes.csv         #si aparecen caracteres raros indicar: no guardar cambios. El dataset esta correcto, problema de visualización de Excel. 
 ├── 1_Expo_IA_PNL.ipynb          
 ├── Prueba_robertitu.ipynb       # Notebook ligero: solo predicción con el modelo ya entrenado
 
