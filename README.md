@@ -15,7 +15,7 @@ Proyecto de clasificación binaria de estrés académico en comentarios de estud
 **Nota:** el modelo entrenado (`modelo_estres_final/`, ~385 MB) no está incluido en este repositorio de GitHub por exceder el límite de tamaño de archivo (100 MB). Está disponible en Google Drive mediante el siguiente enlace:
 
 📁 **Modelo entrenado (descarga o acceso directo):**
-`https://drive.google.com/drive/folders/1KS68tLE3svlmMI9DBbUTXqBrTTD-z8PY?usp=sharing`
+`https://drive.google.com/drive/folders/1ul62INJMyi8XzHpKDGMZ6xngVqEcUGPA`
 
 Este enlace da acceso a la carpeta `modelo_estres_final`, que contiene:
 - `model.safetensors` (pesos del modelo ajustado)
